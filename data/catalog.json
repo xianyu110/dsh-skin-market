@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-16T14:51:28.513Z",
+  "generatedAt": "2026-08-16T15:07:07.172Z",
   "skins": [
     {
       "id": "king-of-soy-sauce.liang-intensity",
@@ -24,9 +24,9 @@
         "dark"
       ],
       "install": {
-        "target": "github:kingOfSoySauce/dsh-liang-skin#75692c83c3c8219736a607c1089dffafda310e7a",
+        "target": "github:kingOfSoySauce/dsh-liang-skin#dc377b1d8862c1ac73530b4a3c9560b4761bc5c5",
         "version": "0.1.4",
-        "commit": "75692c83c3c8219736a607c1089dffafda310e7a"
+        "commit": "dc377b1d8862c1ac73530b4a3c9560b4761bc5c5"
       },
       "compatibility": {
         "dsh": "0.1.0-rc.6",
@@ -35,8 +35,8 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/kingOfSoySauce/dsh-liang-skin/75692c83c3c8219736a607c1089dffafda310e7a/docs/preview.png",
-        "https://raw.githubusercontent.com/kingOfSoySauce/dsh-liang-skin/75692c83c3c8219736a607c1089dffafda310e7a/docs/demo.gif"
+        "https://raw.githubusercontent.com/kingOfSoySauce/dsh-liang-skin/dc377b1d8862c1ac73530b4a3c9560b4761bc5c5/docs/preview.png",
+        "https://raw.githubusercontent.com/kingOfSoySauce/dsh-liang-skin/dc377b1d8862c1ac73530b4a3c9560b4761bc5c5/docs/demo.gif"
       ],
       "review": {
         "compatibility": "verified",
@@ -49,11 +49,11 @@
         "notice": "仓库当前未声明许可证；安装和再分发前请向作者确认授权。"
       },
       "featuredRank": 1,
-      "starsSnapshot": 54,
-      "releaseUpdatedAt": "2026-08-16T12:50:44.804Z",
-      "metadataUpdatedAt": "2026-08-16T13:46:32.518Z",
-      "starsUpdatedAt": "2026-08-16T13:46:32.518Z",
-      "updatedAt": "2026-08-16T13:46:32.518Z"
+      "starsSnapshot": 55,
+      "releaseUpdatedAt": "2026-08-16T15:02:39.804Z",
+      "metadataUpdatedAt": "2026-08-16T15:02:39.804Z",
+      "starsUpdatedAt": "2026-08-16T15:02:39.804Z",
+      "updatedAt": "2026-08-16T15:02:39.804Z"
     },
     {
       "id": "small-tailqwq.maid-atelier",
@@ -106,11 +106,11 @@
         "notice": "仅限非商业使用；详情页必须保留原仓库 NOTICE 署名链。"
       },
       "featuredRank": 2,
-      "starsSnapshot": 1042,
+      "starsSnapshot": 1054,
       "releaseUpdatedAt": "2026-08-16T12:47:30.553Z",
       "metadataUpdatedAt": "2026-08-16T13:46:17.056Z",
-      "starsUpdatedAt": "2026-08-16T14:15:26.009Z",
-      "updatedAt": "2026-08-16T14:15:26.009Z"
+      "starsUpdatedAt": "2026-08-16T15:02:35.007Z",
+      "updatedAt": "2026-08-16T15:02:35.007Z"
     },
     {
       "id": "zhijun-dai.catppuccin",
@@ -137,9 +137,9 @@
         "dark"
       ],
       "install": {
-        "target": "github:zhijun-dai/Catppuccin-dsh-theme#fb76b4ed38cb31c53f919c32f65931e1e4d354af",
-        "version": "0.1.1",
-        "commit": "fb76b4ed38cb31c53f919c32f65931e1e4d354af"
+        "target": "github:zhijun-dai/Catppuccin-dsh-theme#9885d3e7ee93ad4c972e92be4b6f301105e73eb4",
+        "version": "0.2.1",
+        "commit": "9885d3e7ee93ad4c972e92be4b6f301105e73eb4"
       },
       "compatibility": {
         "dsh": "^0.1.0-rc.6",
@@ -150,10 +150,10 @@
       "screenshots": [
         "https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png",
         "https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png",
-        "https://raw.githubusercontent.com/zhijun-dai/Catppuccin-dsh-theme/fb76b4ed38cb31c53f919c32f65931e1e4d354af/assets/preview.webp",
-        "https://raw.githubusercontent.com/zhijun-dai/Catppuccin-dsh-theme/fb76b4ed38cb31c53f919c32f65931e1e4d354af/assets/latte.webp",
-        "https://raw.githubusercontent.com/zhijun-dai/Catppuccin-dsh-theme/fb76b4ed38cb31c53f919c32f65931e1e4d354af/assets/frappe.webp",
-        "https://raw.githubusercontent.com/zhijun-dai/Catppuccin-dsh-theme/fb76b4ed38cb31c53f919c32f65931e1e4d354af/assets/macchiato.webp"
+        "https://raw.githubusercontent.com/zhijun-dai/Catppuccin-dsh-theme/9885d3e7ee93ad4c972e92be4b6f301105e73eb4/assets/preview.webp",
+        "https://raw.githubusercontent.com/zhijun-dai/Catppuccin-dsh-theme/9885d3e7ee93ad4c972e92be4b6f301105e73eb4/assets/latte.webp",
+        "https://raw.githubusercontent.com/zhijun-dai/Catppuccin-dsh-theme/9885d3e7ee93ad4c972e92be4b6f301105e73eb4/assets/frappe.webp",
+        "https://raw.githubusercontent.com/zhijun-dai/Catppuccin-dsh-theme/9885d3e7ee93ad4c972e92be4b6f301105e73eb4/assets/macchiato.webp"
       ],
       "review": {
         "compatibility": "verified",
@@ -166,11 +166,11 @@
         "notice": "Catppuccin palette 源自 catppuccin/palette，并按 MIT 许可证使用。"
       },
       "featuredRank": 3,
-      "starsSnapshot": 7,
-      "releaseUpdatedAt": "2026-08-16T13:24:43.612Z",
-      "metadataUpdatedAt": "2026-08-16T13:47:41.375Z",
-      "starsUpdatedAt": "2026-08-16T12:48:41.596Z",
-      "updatedAt": "2026-08-16T13:47:41.375Z"
+      "starsSnapshot": 8,
+      "releaseUpdatedAt": "2026-08-16T15:02:59.118Z",
+      "metadataUpdatedAt": "2026-08-16T15:02:59.118Z",
+      "starsUpdatedAt": "2026-08-16T15:02:59.118Z",
+      "updatedAt": "2026-08-16T15:02:59.118Z"
     },
     {
       "id": "revolutionla.dsh-dream-skin",
@@ -219,11 +219,11 @@
         "commercialUse": true
       },
       "featuredRank": 4,
-      "starsSnapshot": 29,
+      "starsSnapshot": 30,
       "releaseUpdatedAt": "2026-08-16T12:47:55.813Z",
       "metadataUpdatedAt": "2026-08-16T13:46:43.898Z",
-      "starsUpdatedAt": "2026-08-16T14:16:03.728Z",
-      "updatedAt": "2026-08-16T14:16:03.728Z"
+      "starsUpdatedAt": "2026-08-16T15:02:43.785Z",
+      "updatedAt": "2026-08-16T15:02:43.785Z"
     },
     {
       "id": "nonamelego.dsh-catppuccin",
@@ -251,7 +251,8 @@
       "install": {
         "target": "github:NoNameLeGo/dsh-catppuccin#8bb3d0df49e0e85589880e59238743aa4d21dc2a",
         "version": "0.2.1",
-        "commit": "8bb3d0df49e0e85589880e59238743aa4d21dc2a"
+        "commit": "8bb3d0df49e0e85589880e59238743aa4d21dc2a",
+        "allowBuild": "@nonamelego/dsh-catppuccin@https://codeload.github.com/NoNameLeGo/dsh-catppuccin/tar.gz/8bb3d0df49e0e85589880e59238743aa4d21dc2a"
       },
       "compatibility": {
         "dsh": "^0.1.0-rc.6",
@@ -278,10 +279,10 @@
       },
       "featuredRank": 5,
       "starsSnapshot": 7,
-      "releaseUpdatedAt": "2026-08-16T14:16:53.255Z",
+      "releaseUpdatedAt": "2026-08-16T15:03:00.526Z",
       "metadataUpdatedAt": "2026-08-16T14:16:53.255Z",
       "starsUpdatedAt": "2026-08-16T12:31:33.507Z",
-      "updatedAt": "2026-08-16T14:16:53.255Z"
+      "updatedAt": "2026-08-16T15:03:00.526Z"
     },
     {
       "id": "starslittle.dsh-blue-whale",
@@ -387,11 +388,11 @@
         "commercialUse": true
       },
       "featuredRank": 7,
-      "starsSnapshot": 6,
+      "starsSnapshot": 7,
       "releaseUpdatedAt": "2026-08-16T12:31:59.883Z",
       "metadataUpdatedAt": "2026-08-16T13:47:55.737Z",
-      "starsUpdatedAt": "2026-08-16T12:31:59.883Z",
-      "updatedAt": "2026-08-16T13:47:55.737Z"
+      "starsUpdatedAt": "2026-08-16T15:03:11.460Z",
+      "updatedAt": "2026-08-16T15:03:11.460Z"
     },
     {
       "id": "wsxwj123.theme-gallery",
@@ -574,9 +575,9 @@
         "dark"
       ],
       "install": {
-        "target": "github:Lhy723/dsh-neu-theme#c6ecbe421298b0e89791655b153cfb3287a5c522",
+        "target": "github:Lhy723/dsh-neu-theme#54f4a07c0364f9f9d571a1384471e3825e1c14a4",
         "version": "0.1.0",
-        "commit": "c6ecbe421298b0e89791655b153cfb3287a5c522"
+        "commit": "54f4a07c0364f9f9d571a1384471e3825e1c14a4"
       },
       "compatibility": {
         "dsh": "^0.1.0-rc.6",
@@ -585,9 +586,9 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/Lhy723/dsh-neu-theme/c6ecbe421298b0e89791655b153cfb3287a5c522/.github/asset/dsh-neu-theme-hero.png",
-        "https://raw.githubusercontent.com/Lhy723/dsh-neu-theme/c6ecbe421298b0e89791655b153cfb3287a5c522/.github/asset/light.webp",
-        "https://raw.githubusercontent.com/Lhy723/dsh-neu-theme/c6ecbe421298b0e89791655b153cfb3287a5c522/.github/asset/dark.webp"
+        "https://raw.githubusercontent.com/Lhy723/dsh-neu-theme/54f4a07c0364f9f9d571a1384471e3825e1c14a4/.github/asset/dsh-neu-theme-hero.png",
+        "https://raw.githubusercontent.com/Lhy723/dsh-neu-theme/54f4a07c0364f9f9d571a1384471e3825e1c14a4/.github/asset/light.webp",
+        "https://raw.githubusercontent.com/Lhy723/dsh-neu-theme/54f4a07c0364f9f9d571a1384471e3825e1c14a4/.github/asset/dark.webp"
       ],
       "review": {
         "compatibility": "verified",
@@ -600,10 +601,10 @@
       },
       "featuredRank": 11,
       "starsSnapshot": 2,
-      "releaseUpdatedAt": "2026-08-16T12:32:42.957Z",
-      "metadataUpdatedAt": "2026-08-16T13:50:31.225Z",
+      "releaseUpdatedAt": "2026-08-16T15:04:09.573Z",
+      "metadataUpdatedAt": "2026-08-16T15:04:09.573Z",
       "starsUpdatedAt": "2026-08-16T12:32:42.957Z",
-      "updatedAt": "2026-08-16T13:50:31.225Z"
+      "updatedAt": "2026-08-16T15:04:09.573Z"
     },
     {
       "id": "zhijun-dai.solarized-dsh-theme",
@@ -1023,11 +1024,11 @@
         "commercialUse": true
       },
       "featuredRank": 19,
-      "starsSnapshot": 8,
+      "starsSnapshot": 9,
       "releaseUpdatedAt": "2026-08-16T12:15:36.557Z",
       "metadataUpdatedAt": "2026-08-16T13:47:17.522Z",
-      "starsUpdatedAt": "2026-08-16T12:15:36.557Z",
-      "updatedAt": "2026-08-16T13:47:17.522Z"
+      "starsUpdatedAt": "2026-08-16T15:02:56.615Z",
+      "updatedAt": "2026-08-16T15:02:56.615Z"
     },
     {
       "id": "tianyhjg-lab.dsh-font",
@@ -1627,7 +1628,8 @@
       "install": {
         "target": "github:SenryLee/dsh-frosted-window#ccee61d02837d2e3e3160743c07c8627a40c3438",
         "version": "0.1.0",
-        "commit": "ccee61d02837d2e3e3160743c07c8627a40c3438"
+        "commit": "ccee61d02837d2e3e3160743c07c8627a40c3438",
+        "allowBuild": "dsh-frosted-window@https://codeload.github.com/SenryLee/dsh-frosted-window/tar.gz/ccee61d02837d2e3e3160743c07c8627a40c3438"
       },
       "compatibility": {
         "dsh": "unverified",
@@ -1649,10 +1651,10 @@
       },
       "featuredRank": 31,
       "starsSnapshot": 1,
-      "releaseUpdatedAt": "2026-08-16T12:16:30.062Z",
+      "releaseUpdatedAt": "2026-08-16T15:05:22.073Z",
       "metadataUpdatedAt": "2026-08-16T13:53:54.943Z",
       "starsUpdatedAt": "2026-08-16T12:16:30.062Z",
-      "updatedAt": "2026-08-16T13:53:54.943Z"
+      "updatedAt": "2026-08-16T15:05:22.073Z"
     },
     {
       "id": "tuogusa.dsh-whale-background",
@@ -1853,11 +1855,11 @@
         "commercialUse": true
       },
       "featuredRank": 35,
-      "starsSnapshot": 0,
+      "starsSnapshot": 1,
       "releaseUpdatedAt": "2026-08-16T12:17:02.328Z",
       "metadataUpdatedAt": "2026-08-16T14:26:47.060Z",
-      "starsUpdatedAt": "2026-08-16T12:17:02.328Z",
-      "updatedAt": "2026-08-16T14:26:47.060Z"
+      "starsUpdatedAt": "2026-08-16T15:05:23.808Z",
+      "updatedAt": "2026-08-16T15:05:23.808Z"
     },
     {
       "id": "tqsy114514.dsh-ui-appearance",
@@ -1883,7 +1885,8 @@
       "install": {
         "target": "github:TQSY114514/dsh-ui-appearance#ce72d352f22776eb5fd4091ec9f1f3fc1b9ae8b5",
         "version": "0.1.1",
-        "commit": "ce72d352f22776eb5fd4091ec9f1f3fc1b9ae8b5"
+        "commit": "ce72d352f22776eb5fd4091ec9f1f3fc1b9ae8b5",
+        "allowBuild": "dsh-ui-appearance@https://codeload.github.com/TQSY114514/dsh-ui-appearance/tar.gz/ce72d352f22776eb5fd4091ec9f1f3fc1b9ae8b5"
       },
       "compatibility": {
         "dsh": "unverified",
@@ -1907,10 +1910,10 @@
       },
       "featuredRank": 36,
       "starsSnapshot": 6,
-      "releaseUpdatedAt": "2026-08-16T13:25:07.230Z",
+      "releaseUpdatedAt": "2026-08-16T15:03:12.629Z",
       "metadataUpdatedAt": "2026-08-16T13:48:12.737Z",
       "starsUpdatedAt": "2026-08-16T14:17:33.631Z",
-      "updatedAt": "2026-08-16T14:17:33.631Z"
+      "updatedAt": "2026-08-16T15:03:12.629Z"
     },
     {
       "id": "wyh66666666.dsh-transparent-ui-plugin",
@@ -1961,11 +1964,11 @@
         "commercialUse": true
       },
       "featuredRank": 37,
-      "starsSnapshot": 130,
+      "starsSnapshot": 138,
       "releaseUpdatedAt": "2026-08-16T14:15:34.511Z",
       "metadataUpdatedAt": "2026-08-16T14:15:34.511Z",
-      "starsUpdatedAt": "2026-08-16T14:15:34.511Z",
-      "updatedAt": "2026-08-16T14:15:34.511Z"
+      "starsUpdatedAt": "2026-08-16T15:02:36.200Z",
+      "updatedAt": "2026-08-16T15:02:36.200Z"
     },
     {
       "id": "dancingmemory.dskin",
@@ -2281,11 +2284,11 @@
         "commercialUse": true
       },
       "featuredRank": 43,
-      "starsSnapshot": 5,
+      "starsSnapshot": 6,
       "releaseUpdatedAt": "2026-08-16T13:47:59.806Z",
       "metadataUpdatedAt": "2026-08-16T13:47:59.806Z",
-      "starsUpdatedAt": "2026-08-16T13:47:59.806Z",
-      "updatedAt": "2026-08-16T13:47:59.806Z"
+      "starsUpdatedAt": "2026-08-16T15:03:05.062Z",
+      "updatedAt": "2026-08-16T15:03:05.062Z"
     },
     {
       "id": "misaki14987.dsh-theme-taffy",
@@ -2336,11 +2339,11 @@
         "commercialUse": true
       },
       "featuredRank": 44,
-      "starsSnapshot": 5,
+      "starsSnapshot": 6,
       "releaseUpdatedAt": "2026-08-16T13:48:03.686Z",
       "metadataUpdatedAt": "2026-08-16T14:17:41.598Z",
-      "starsUpdatedAt": "2026-08-16T13:48:03.686Z",
-      "updatedAt": "2026-08-16T14:17:41.598Z"
+      "starsUpdatedAt": "2026-08-16T15:03:07.337Z",
+      "updatedAt": "2026-08-16T15:03:07.337Z"
     },
     {
       "id": "vim0x3c.dsh-skin-appearance",
@@ -2367,7 +2370,8 @@
       "install": {
         "target": "github:Vim0x3c/dsh-skin-appearance#be7b05776c1dee9e3d387e122c42005edf400837",
         "version": "0.1.0",
-        "commit": "be7b05776c1dee9e3d387e122c42005edf400837"
+        "commit": "be7b05776c1dee9e3d387e122c42005edf400837",
+        "allowBuild": "dsh-skin-appearance@https://codeload.github.com/Vim0x3c/dsh-skin-appearance/tar.gz/be7b05776c1dee9e3d387e122c42005edf400837"
       },
       "compatibility": {
         "dsh": "^0.1.0-rc.5",
@@ -2394,10 +2398,10 @@
       },
       "featuredRank": 45,
       "starsSnapshot": 5,
-      "releaseUpdatedAt": "2026-08-16T13:48:16.554Z",
+      "releaseUpdatedAt": "2026-08-16T15:03:14.944Z",
       "metadataUpdatedAt": "2026-08-16T13:48:16.554Z",
       "starsUpdatedAt": "2026-08-16T13:48:16.554Z",
-      "updatedAt": "2026-08-16T13:48:16.554Z"
+      "updatedAt": "2026-08-16T15:03:14.944Z"
     },
     {
       "id": "drfccv.dsh-theme-neko",
@@ -2423,7 +2427,8 @@
       "install": {
         "target": "github:drfccv/dsh-theme-neko#6c7c9a58ff93cef7117cbfc3b48a295039cd7c45",
         "version": "0.1.0",
-        "commit": "6c7c9a58ff93cef7117cbfc3b48a295039cd7c45"
+        "commit": "6c7c9a58ff93cef7117cbfc3b48a295039cd7c45",
+        "allowBuild": "dsh-theme-neko@https://codeload.github.com/drfccv/dsh-theme-neko/tar.gz/6c7c9a58ff93cef7117cbfc3b48a295039cd7c45"
       },
       "compatibility": {
         "dsh": "unverified",
@@ -2445,10 +2450,10 @@
       },
       "featuredRank": 46,
       "starsSnapshot": 4,
-      "releaseUpdatedAt": "2026-08-16T13:48:19.998Z",
+      "releaseUpdatedAt": "2026-08-16T15:03:18.559Z",
       "metadataUpdatedAt": "2026-08-16T13:48:19.998Z",
       "starsUpdatedAt": "2026-08-16T13:48:19.998Z",
-      "updatedAt": "2026-08-16T13:48:19.998Z"
+      "updatedAt": "2026-08-16T15:03:18.559Z"
     },
     {
       "id": "ai7603.dsh-cyberpunk-theme",
@@ -2457,7 +2462,7 @@
         "en": "dsh-cyberpunk-theme"
       },
       "author": "ai7603",
-      "description": "Cyberpunk 2077 (Night City) theme for DeepSeek Harness — installable as a permanent composition plugin or a dynamic Cordis plugin.",
+      "description": "dsh-cyberpunk-theme",
       "repo": "https://github.com/ai7603/dsh-cyberpunk-theme",
       "package": "dsh-cyberpunk-theme",
       "rowId": "cyberpunk-2077",
@@ -2498,9 +2503,9 @@
       "featuredRank": 47,
       "starsSnapshot": 3,
       "releaseUpdatedAt": "2026-08-16T13:48:35.219Z",
-      "metadataUpdatedAt": "2026-08-16T14:18:25.569Z",
+      "metadataUpdatedAt": "2026-08-16T15:03:23.247Z",
       "starsUpdatedAt": "2026-08-16T13:48:35.219Z",
-      "updatedAt": "2026-08-16T14:18:25.569Z"
+      "updatedAt": "2026-08-16T15:03:23.247Z"
     },
     {
       "id": "anneheartrecord.dsh-desk-pet",
@@ -2509,7 +2514,7 @@
         "en": "dsh-desk-pet"
       },
       "author": "anneheartrecord",
-      "description": "Always-on-top DeepSeek Harness desktop pet. Default whale, four skins, four silent states. Not an in-page widget.",
+      "description": "Always-on-top DeepSeek Harness desktop pet. Default whale, four skins, four silent states.",
       "repo": "https://github.com/anneheartrecord/dsh-desk-pet",
       "package": "dsh-desk-pet",
       "rowId": "dsh-desk-pet",
@@ -2548,9 +2553,9 @@
       "featuredRank": 48,
       "starsSnapshot": 3,
       "releaseUpdatedAt": "2026-08-16T13:48:42.914Z",
-      "metadataUpdatedAt": "2026-08-16T14:18:29.509Z",
+      "metadataUpdatedAt": "2026-08-16T15:03:24.467Z",
       "starsUpdatedAt": "2026-08-16T13:48:42.914Z",
-      "updatedAt": "2026-08-16T14:18:29.509Z"
+      "updatedAt": "2026-08-16T15:03:24.467Z"
     },
     {
       "id": "estellalee.dsh-outdoor-theme",
@@ -2559,7 +2564,7 @@
         "en": "dsh-outdoor-theme"
       },
       "author": "Estellalee",
-      "description": "DSH 皮肤：山野向导（Trail Guide）· 户外徒步风换皮 + 右侧路标工作进度面板",
+      "description": "DSH 户外皮肤 · 山野向导（Trail Guide）",
       "repo": "https://github.com/Estellalee/dsh-outdoor-theme",
       "package": "dsh-outdoor-theme",
       "rowId": "ui-outdoor-theme",
@@ -2604,9 +2609,9 @@
       "featuredRank": 49,
       "starsSnapshot": 3,
       "releaseUpdatedAt": "2026-08-16T13:48:50.122Z",
-      "metadataUpdatedAt": "2026-08-16T14:18:33.337Z",
+      "metadataUpdatedAt": "2026-08-16T15:03:25.641Z",
       "starsUpdatedAt": "2026-08-16T13:48:50.122Z",
-      "updatedAt": "2026-08-16T14:18:33.337Z"
+      "updatedAt": "2026-08-16T15:03:25.641Z"
     },
     {
       "id": "le-soleil-se-couche.dsh-skin-claude-code",
@@ -2615,7 +2620,7 @@
         "en": "dsh-skin-claude-code"
       },
       "author": "le-soleil-se-couche",
-      "description": "Hot-pluggable Claude Code terminal skin for the dsh web GUI: charcoal terminal surfaces, amber accent, monospace type, terminal-window title bar.",
+      "description": "完美复刻 Claude Code 皮肤，纪念我的 Vibe Coding 白月光。",
       "repo": "https://github.com/le-soleil-se-couche/dsh-skin-claude-code",
       "package": "@deepseek-ai/dsh-client-ui-skin-claude-code",
       "rowId": "ui-skin-claude-code",
@@ -2630,7 +2635,8 @@
       "install": {
         "target": "github:le-soleil-se-couche/dsh-skin-claude-code#8590170e1c37eca3176469ade61998fd3d5088d4",
         "version": "0.0.1",
-        "commit": "8590170e1c37eca3176469ade61998fd3d5088d4"
+        "commit": "8590170e1c37eca3176469ade61998fd3d5088d4",
+        "allowBuild": "@deepseek-ai/dsh-client-ui-skin-claude-code@https://codeload.github.com/le-soleil-se-couche/dsh-skin-claude-code/tar.gz/8590170e1c37eca3176469ade61998fd3d5088d4"
       },
       "compatibility": {
         "dsh": "unverified",
@@ -2653,10 +2659,10 @@
       },
       "featuredRank": 50,
       "starsSnapshot": 3,
-      "releaseUpdatedAt": "2026-08-16T13:49:00.442Z",
-      "metadataUpdatedAt": "2026-08-16T14:18:38.965Z",
+      "releaseUpdatedAt": "2026-08-16T15:03:29.049Z",
+      "metadataUpdatedAt": "2026-08-16T15:03:29.049Z",
       "starsUpdatedAt": "2026-08-16T13:49:00.442Z",
-      "updatedAt": "2026-08-16T14:18:38.965Z"
+      "updatedAt": "2026-08-16T15:03:29.049Z"
     },
     {
       "id": "linkingoscar.dsh-billing-glass",
@@ -2665,7 +2671,7 @@
         "en": "dsh-billing-glass"
       },
       "author": "linkingoscar",
-      "description": "Liquid-glass billing overlay for the DeepSeek Harness Web GUI: provider balances, session cost, daily spend and token buckets. DeepSeek-first with an extensible provider registry.",
+      "description": "Liquid-glass billing overlay for the DeepSeek Harness Web GUI: provider balances, session cost, daily spend and token buckets. DeepSeek-first and extensible.",
       "repo": "https://github.com/linkingoscar/dsh-billing-glass",
       "package": "dsh-billing-glass",
       "rowId": "billing-glass",
@@ -2706,9 +2712,9 @@
       "featuredRank": 51,
       "starsSnapshot": 3,
       "releaseUpdatedAt": "2026-08-16T13:49:03.548Z",
-      "metadataUpdatedAt": "2026-08-16T14:18:43.044Z",
+      "metadataUpdatedAt": "2026-08-16T15:03:30.244Z",
       "starsUpdatedAt": "2026-08-16T13:49:03.548Z",
-      "updatedAt": "2026-08-16T14:18:43.044Z"
+      "updatedAt": "2026-08-16T15:03:30.244Z"
     },
     {
       "id": "luoyu-xingu.dsh-background",
@@ -2769,7 +2775,7 @@
         "en": "dsh-webUI-Glass-Theme"
       },
       "author": "makuralymi",
-      "description": "Global frosted-glass (backdrop blur) theme plugin for the dsh web UI with animated light/dark switching and a scheduled theme timer",
+      "description": "dsh-webUI-Glass-Theme",
       "repo": "https://github.com/makuralymi/dsh-webUI-Glass-Theme",
       "package": "dsh-client-ui-frosted-glass",
       "rowId": "ui-frosted-glass",
@@ -2785,9 +2791,9 @@
         "dark"
       ],
       "install": {
-        "target": "github:makuralymi/dsh-webUI-Glass-Theme#1d8dac59ca9ad6dde6cfbaee14126d06fbe5b5c1",
+        "target": "github:makuralymi/dsh-webUI-Glass-Theme#b76db9b1a96074a44eef0e87c2346a528065f1fe",
         "version": "0.2.0",
-        "commit": "1d8dac59ca9ad6dde6cfbaee14126d06fbe5b5c1"
+        "commit": "b76db9b1a96074a44eef0e87c2346a528065f1fe"
       },
       "compatibility": {
         "dsh": "^0.1.0-rc.6",
@@ -2796,8 +2802,8 @@
         ]
       },
       "screenshots": [
-        "https://raw.githubusercontent.com/makuralymi/dsh-webUI-Glass-Theme/1d8dac59ca9ad6dde6cfbaee14126d06fbe5b5c1/assets/sc.png",
-        "https://raw.githubusercontent.com/makuralymi/dsh-webUI-Glass-Theme/1d8dac59ca9ad6dde6cfbaee14126d06fbe5b5c1/assets/sc2.png"
+        "https://raw.githubusercontent.com/makuralymi/dsh-webUI-Glass-Theme/b76db9b1a96074a44eef0e87c2346a528065f1fe/assets/sc.png",
+        "https://raw.githubusercontent.com/makuralymi/dsh-webUI-Glass-Theme/b76db9b1a96074a44eef0e87c2346a528065f1fe/assets/sc2.png"
       ],
       "review": {
         "compatibility": "verified",
@@ -2810,10 +2816,10 @@
       },
       "featuredRank": 53,
       "starsSnapshot": 3,
-      "releaseUpdatedAt": "2026-08-16T13:49:10.001Z",
-      "metadataUpdatedAt": "2026-08-16T14:18:52.122Z",
+      "releaseUpdatedAt": "2026-08-16T15:03:32.594Z",
+      "metadataUpdatedAt": "2026-08-16T15:03:32.594Z",
       "starsUpdatedAt": "2026-08-16T13:49:10.001Z",
-      "updatedAt": "2026-08-16T14:18:52.122Z"
+      "updatedAt": "2026-08-16T15:03:32.594Z"
     },
     {
       "id": "omdsh-dev.dsh-fun-weather",
@@ -2925,7 +2931,7 @@
         "en": "dsh-skin-blue-whale"
       },
       "author": "zenghuizhu69-hub",
-      "description": "蓝鲸跃海皮肤 —— 为 dsh Web UI 打造的极简深海蓝鲸主题：官网同款蓝白流动海水渐变背景、跃出海面的官方蓝鲸 logo、主页/会话双场景自适应，以及整套蓝鲸配色的界面令牌。",
+      "description": "dsh Web UI skin: DeepSeek blue-whale theme with official gradient and leaping whale art (dsh plugin)",
       "repo": "https://github.com/zenghuizhu69-hub/dsh-skin-blue-whale",
       "package": "dsh-skin-blue-whale",
       "rowId": "blue-whale-skin",
@@ -2968,9 +2974,9 @@
       "featuredRank": 56,
       "starsSnapshot": 3,
       "releaseUpdatedAt": "2026-08-16T13:49:28.860Z",
-      "metadataUpdatedAt": "2026-08-16T14:19:06.024Z",
+      "metadataUpdatedAt": "2026-08-16T15:03:40.907Z",
       "starsUpdatedAt": "2026-08-16T13:49:28.860Z",
-      "updatedAt": "2026-08-16T14:19:06.024Z"
+      "updatedAt": "2026-08-16T15:03:40.907Z"
     },
     {
       "id": "anionex.dsh-eye-care",
@@ -3033,7 +3039,7 @@
         "en": "deepseek-harness-angelina-themes"
       },
       "author": "bilbillm",
-      "description": "Angelina light and dark glass themes with restrained parallax for DeepSeek Harness",
+      "description": "Angelina light and dark glass themes with parallax for DeepSeek Harness",
       "repo": "https://github.com/bilbillm/deepseek-harness-angelina-themes",
       "package": "dsh-angelina-themes",
       "rowId": "dsh-angelina-themes",
@@ -3075,9 +3081,9 @@
       "featuredRank": 58,
       "starsSnapshot": 2,
       "releaseUpdatedAt": "2026-08-16T13:49:51.564Z",
-      "metadataUpdatedAt": "2026-08-16T14:19:32.574Z",
+      "metadataUpdatedAt": "2026-08-16T15:03:51.373Z",
       "starsUpdatedAt": "2026-08-16T13:49:51.564Z",
-      "updatedAt": "2026-08-16T14:19:32.574Z"
+      "updatedAt": "2026-08-16T15:03:51.373Z"
     },
     {
       "id": "caoning3212.dsh-plugin-image-wallpaper",
@@ -3137,7 +3143,7 @@
         "en": "dsh-image-theme"
       },
       "author": "Carpon39038",
-      "description": "Warp-inspired image-to-theme plugin for the DeepSeek Harness web client.",
+      "description": "Warp-inspired image-to-theme plugin for DeepSeek Harness: upload a background, extract a palette, and apply a glass UI.",
       "repo": "https://github.com/Carpon39038/dsh-image-theme",
       "package": "@cabeta/dsh-image-theme",
       "rowId": "image-theme",
@@ -3178,9 +3184,9 @@
       "featuredRank": 60,
       "starsSnapshot": 2,
       "releaseUpdatedAt": "2026-08-16T13:50:02.941Z",
-      "metadataUpdatedAt": "2026-08-16T14:19:41.215Z",
+      "metadataUpdatedAt": "2026-08-16T15:03:56.628Z",
       "starsUpdatedAt": "2026-08-16T13:50:02.941Z",
-      "updatedAt": "2026-08-16T14:19:41.215Z"
+      "updatedAt": "2026-08-16T15:03:56.628Z"
     },
     {
       "id": "chajiuqqq.dsh-claude-theme",
@@ -3189,7 +3195,7 @@
         "en": "dsh-claude-theme"
       },
       "author": "chajiuqqq",
-      "description": "Claude 风格主题插件（DSH Web UI）：象牙白背景、赤陶色主色、暖灰文字，保留 DeepSeek logo；可在 设置 → 常规 中启用/禁用",
+      "description": "dsh的claude风格界面",
       "repo": "https://github.com/chajiuqqq/dsh-claude-theme",
       "package": "dsh-claude-theme",
       "rowId": "claude-theme",
@@ -3230,9 +3236,9 @@
       "featuredRank": 61,
       "starsSnapshot": 2,
       "releaseUpdatedAt": "2026-08-16T13:50:06.363Z",
-      "metadataUpdatedAt": "2026-08-16T14:19:45.159Z",
+      "metadataUpdatedAt": "2026-08-16T15:03:57.880Z",
       "starsUpdatedAt": "2026-08-16T13:50:06.363Z",
-      "updatedAt": "2026-08-16T14:19:45.159Z"
+      "updatedAt": "2026-08-16T15:03:57.880Z"
     },
     {
       "id": "devourerm.dsh-naiwa-theme",
@@ -3241,7 +3247,7 @@
         "en": "dsh-naiwa-theme"
       },
       "author": "DevourerM",
-      "description": "克制的奶蛙 Harness 主题：半头背景、抱腹大笑标题标记、发送与完成音效。",
+      "description": "为deepseek harness构建的奶蛙主题，可是我觉得很神圣呀。（素材来自互联网）",
       "repo": "https://github.com/DevourerM/dsh-naiwa-theme",
       "package": "dsh-naiwa-theme",
       "rowId": "naiwa-theme",
@@ -3258,7 +3264,8 @@
       "install": {
         "target": "github:DevourerM/dsh-naiwa-theme#e25421d9247aceecdc97852091991708a5897df0",
         "version": "0.5.0",
-        "commit": "e25421d9247aceecdc97852091991708a5897df0"
+        "commit": "e25421d9247aceecdc97852091991708a5897df0",
+        "allowBuild": "dsh-naiwa-theme@https://codeload.github.com/DevourerM/dsh-naiwa-theme/tar.gz/e25421d9247aceecdc97852091991708a5897df0"
       },
       "compatibility": {
         "dsh": "0.1.0-rc.5",
@@ -3280,10 +3287,10 @@
       },
       "featuredRank": 62,
       "starsSnapshot": 2,
-      "releaseUpdatedAt": "2026-08-16T13:50:16.726Z",
-      "metadataUpdatedAt": "2026-08-16T14:20:00.931Z",
+      "releaseUpdatedAt": "2026-08-16T15:04:01.658Z",
+      "metadataUpdatedAt": "2026-08-16T15:04:01.658Z",
       "starsUpdatedAt": "2026-08-16T13:50:16.726Z",
-      "updatedAt": "2026-08-16T14:20:00.931Z"
+      "updatedAt": "2026-08-16T15:04:01.658Z"
     },
     {
       "id": "dlpufan.dsh-theme-cyberpunk",
@@ -3292,7 +3299,7 @@
         "en": "dsh-theme-cyberpunk"
       },
       "author": "dlpufan",
-      "description": "A neon cyberpunk appearance plugin for the DeepSeek Harness web surface: refined RGB ambient lighting, CRT scanlines, and a cohesive cyan/magenta/violet token palette.",
+      "description": "DeepSeek Harness 赛博朋克主题插件：RGB 流动霓虹、自定义背景图库、本地音乐播放器与一键启停。",
       "repo": "https://github.com/dlpufan/dsh-theme-cyberpunk",
       "package": "dsh-theme-cyberpunk",
       "rowId": "theme-cyberpunk",
@@ -3334,9 +3341,9 @@
       "featuredRank": 63,
       "starsSnapshot": 2,
       "releaseUpdatedAt": "2026-08-16T13:50:20.382Z",
-      "metadataUpdatedAt": "2026-08-16T14:20:06.280Z",
+      "metadataUpdatedAt": "2026-08-16T15:04:02.912Z",
       "starsUpdatedAt": "2026-08-16T13:50:20.382Z",
-      "updatedAt": "2026-08-16T14:20:06.280Z"
+      "updatedAt": "2026-08-16T15:04:02.912Z"
     },
     {
       "id": "lilycleheart.liuli-theme",
@@ -3404,7 +3411,7 @@
         "en": "chiral-pulse"
       },
       "author": "MoonShadow1976",
-      "description": "CHIRAL PULSE - a Death Stranding-styled BB pod vital-signs monitor for the DeepSeek Harness web UI: the session's heartbeat waveform is the hero, and the pulse reacts to real agent activity.",
+      "description": "Death Stranding skin for DeepSeek Harness UI + live heartbeat feed that pulses on agent thinking/tool execution. Whale keeps brand blue.",
       "repo": "https://github.com/MoonShadow1976/chiral-pulse",
       "package": "chiral-pulse",
       "rowId": "ui-chiral-pulse",
@@ -3443,9 +3450,9 @@
       "featuredRank": 65,
       "starsSnapshot": 2,
       "releaseUpdatedAt": "2026-08-16T13:50:42.859Z",
-      "metadataUpdatedAt": "2026-08-16T14:20:23.468Z",
+      "metadataUpdatedAt": "2026-08-16T15:04:13.446Z",
       "starsUpdatedAt": "2026-08-16T13:50:42.859Z",
-      "updatedAt": "2026-08-16T14:20:23.468Z"
+      "updatedAt": "2026-08-16T15:04:13.446Z"
     },
     {
       "id": "stushansusu.dsh-miku-skin",
@@ -3454,7 +3461,7 @@
         "en": "dsh-miku-skin"
       },
       "author": "stushansusu",
-      "description": "初音未来（Hatsune Miku）主题皮肤：蓝紫洋红渐变标题栏与按钮、半透明毛玻璃面板与输入框、可自定义背景图，用于 DeepSeek Harness (DSH) Web GUI",
+      "description": "初音未来主题皮肤，用于 DeepSeek Harness (DSH) Web GUI —— 蓝紫洋红渐变、毛玻璃面板、可自定义背景图、亮暗双主题",
       "repo": "https://github.com/stushansusu/dsh-miku-skin",
       "package": "@deepseek-ai/dsh-client-ui-skin-miku",
       "rowId": "ui-skin-miku",
@@ -3473,7 +3480,8 @@
       "install": {
         "target": "github:stushansusu/dsh-miku-skin#3a5dcacf09786820eafc1e43ee8c2603dce4b9ff",
         "version": "1.0.0",
-        "commit": "3a5dcacf09786820eafc1e43ee8c2603dce4b9ff"
+        "commit": "3a5dcacf09786820eafc1e43ee8c2603dce4b9ff",
+        "allowBuild": "@deepseek-ai/dsh-client-ui-skin-miku@https://codeload.github.com/stushansusu/dsh-miku-skin/tar.gz/3a5dcacf09786820eafc1e43ee8c2603dce4b9ff"
       },
       "compatibility": {
         "dsh": "unverified",
@@ -3496,10 +3504,10 @@
       },
       "featuredRank": 66,
       "starsSnapshot": 2,
-      "releaseUpdatedAt": "2026-08-16T13:51:00.375Z",
-      "metadataUpdatedAt": "2026-08-16T14:20:35.164Z",
+      "releaseUpdatedAt": "2026-08-16T15:04:18.067Z",
+      "metadataUpdatedAt": "2026-08-16T15:04:18.067Z",
       "starsUpdatedAt": "2026-08-16T13:51:00.375Z",
-      "updatedAt": "2026-08-16T14:20:35.164Z"
+      "updatedAt": "2026-08-16T15:04:18.067Z"
     },
     {
       "id": "vonpaulison.deepseek-harness-custom-background",
@@ -3508,7 +3516,7 @@
         "en": "deepseek-harness-custom-background"
       },
       "author": "vonPaulison",
-      "description": "DeepSeek Harness Web 界面自定义背景插件：主界面/边栏/顶栏三区域独立背景、拖拽定位、不透明度 0-100、主题色、圆角、缩放，附健壮定位与内置诊断",
+      "description": "DeepSeek Harness Web 界面自定义背景插件：主界面/边栏/顶栏三区域独立背景、拖拽定位、不透明度控制、主题色、圆角、缩放",
       "repo": "https://github.com/vonPaulison/deepseek-harness-custom-background",
       "package": "dsh-ui-customizer",
       "rowId": "ui-customizer",
@@ -3550,9 +3558,9 @@
       "featuredRank": 67,
       "starsSnapshot": 2,
       "releaseUpdatedAt": "2026-08-16T13:51:04.723Z",
-      "metadataUpdatedAt": "2026-08-16T14:20:39.366Z",
+      "metadataUpdatedAt": "2026-08-16T15:04:19.189Z",
       "starsUpdatedAt": "2026-08-16T13:51:04.723Z",
-      "updatedAt": "2026-08-16T14:20:39.366Z"
+      "updatedAt": "2026-08-16T15:04:19.189Z"
     },
     {
       "id": "wangxilhy23.dsh-wx-skin",
@@ -3561,7 +3569,7 @@
         "en": "dsh-wx-skin"
       },
       "author": "wangxilhy23",
-      "description": "DSH Web GUI 皮肤插件：侧栏「皮肤」面板，支持自选本地图片 / URL 作为全屏背景，含预设、暗化、模糊、关闭皮肤，跨刷新持久化（外部 client 插件，dsh-web-ui 风格）。",
+      "description": "dsh-wx-skin",
       "repo": "https://github.com/wangxilhy23/dsh-wx-skin",
       "package": "dsh-wx-skin",
       "rowId": "ui-dsh-wx-skin",
@@ -3601,9 +3609,9 @@
       "featuredRank": 68,
       "starsSnapshot": 2,
       "releaseUpdatedAt": "2026-08-16T13:51:09.489Z",
-      "metadataUpdatedAt": "2026-08-16T14:20:47.831Z",
+      "metadataUpdatedAt": "2026-08-16T15:04:21.375Z",
       "starsUpdatedAt": "2026-08-16T13:51:09.489Z",
-      "updatedAt": "2026-08-16T14:20:47.831Z"
+      "updatedAt": "2026-08-16T15:04:21.375Z"
     },
     {
       "id": "wanzhiwei5.dsh-skin-amis",
@@ -3612,7 +3620,7 @@
         "en": "dsh-skin-amis"
       },
       "author": "wanzhiwei5",
-      "description": "鸣潮爱弥斯主题皮肤 — 粉白配色 + 赛博霓虹装饰的 DeepSeek Harness Web GUI 皮肤",
+      "description": "鸣潮爱弥斯主题皮肤: 粉白配色+赛博霓虹装饰的 DeepSeek Harness Web GUI 皮肤 / Amis-inspired pink-white skin for DSH Web UI",
       "repo": "https://github.com/wanzhiwei5/dsh-skin-amis",
       "package": "dsh-skin-amis",
       "rowId": "ui-skin-amis",
@@ -3654,9 +3662,9 @@
       "featuredRank": 69,
       "starsSnapshot": 2,
       "releaseUpdatedAt": "2026-08-16T13:51:14.660Z",
-      "metadataUpdatedAt": "2026-08-16T14:20:53.364Z",
+      "metadataUpdatedAt": "2026-08-16T15:04:22.590Z",
       "starsUpdatedAt": "2026-08-16T13:51:14.660Z",
-      "updatedAt": "2026-08-16T14:20:53.364Z"
+      "updatedAt": "2026-08-16T15:04:22.590Z"
     },
     {
       "id": "yoli-mi.dsh-client-ui-custom",
@@ -3722,7 +3730,7 @@
         "en": "silk-background"
       },
       "author": "z21for99",
-      "description": "dsh web-profile client plugin: WebGL silk shader background for the Web GUI. v4: the glass effect rides the official theme service (overrideTokens token layers with light/dark pairs); the node half is a no-op. @deepseek-ai/dsh-client-modules discovers dsh.client, serves /plugins/silk-background/client.js and injects it into the boot manifest; the dsh.bundle.patch declaration lets `dsh plugin --profile web add` wire the entry automatically.",
+      "description": "DSH Web GUI 客户端插件：WebGL Silk 丝绸动态背景 + 全站玻璃化皮肤（官方主题 token 覆盖，零依赖） | WebGL silk shader background & glassmorphism skin for the DeepSeek Harness Web GUI",
       "repo": "https://github.com/z21for99/silk-background",
       "package": "silk-background",
       "rowId": "silk-background",
@@ -3765,9 +3773,9 @@
       "featuredRank": 71,
       "starsSnapshot": 2,
       "releaseUpdatedAt": "2026-08-16T13:51:27.838Z",
-      "metadataUpdatedAt": "2026-08-16T14:21:01.294Z",
+      "metadataUpdatedAt": "2026-08-16T15:04:27.409Z",
       "starsUpdatedAt": "2026-08-16T13:51:27.838Z",
-      "updatedAt": "2026-08-16T14:21:01.294Z"
+      "updatedAt": "2026-08-16T15:04:27.409Z"
     },
     {
       "id": "z827439974.dsh-background-plugin",
@@ -3776,7 +3784,7 @@
         "en": "dsh-background-plugin"
       },
       "author": "z827439974",
-      "description": "DSH WebUI background plugin: pick a local image as the webui background, overlaid with a theme-matched translucent mask so it never disturbs the UI. Persistence is browser-local (localStorage).",
+      "description": "Set the image as background for your dsh-webui",
       "repo": "https://github.com/z827439974/dsh-background-plugin",
       "package": "dsh-plugin-webui-bg",
       "rowId": "webui-bg",
@@ -3816,9 +3824,9 @@
       "featuredRank": 72,
       "starsSnapshot": 2,
       "releaseUpdatedAt": "2026-08-16T13:51:31.579Z",
-      "metadataUpdatedAt": "2026-08-16T14:21:04.630Z",
+      "metadataUpdatedAt": "2026-08-16T15:04:28.525Z",
       "starsUpdatedAt": "2026-08-16T13:51:31.579Z",
-      "updatedAt": "2026-08-16T14:21:04.630Z"
+      "updatedAt": "2026-08-16T15:04:28.525Z"
     },
     {
       "id": "zealot00.dsh-pet",
@@ -3827,7 +3835,7 @@
         "en": "dsh-pet"
       },
       "author": "zealot00",
-      "description": "Desktop pet for DeepSeek Harness Web UI: idle float animation, click speech, right-click settings panel, skin separation (assets + settings). Roadmap: alarm clock, sticky notes and more practical widgets — pure front-end.",
+      "description": "Desktop pet for DeepSeek Harness Web UI: sprite animation, agent state linkage, drag, alarm & pomodoro widgets, skin separation",
       "repo": "https://github.com/zealot00/dsh-pet",
       "package": "@dsh-local/dsh-pet",
       "rowId": "dsh-pet",
@@ -3867,9 +3875,9 @@
       "featuredRank": 73,
       "starsSnapshot": 2,
       "releaseUpdatedAt": "2026-08-16T13:51:35.527Z",
-      "metadataUpdatedAt": "2026-08-16T14:21:08.829Z",
+      "metadataUpdatedAt": "2026-08-16T15:04:29.668Z",
       "starsUpdatedAt": "2026-08-16T13:51:35.527Z",
-      "updatedAt": "2026-08-16T14:21:08.829Z"
+      "updatedAt": "2026-08-16T15:04:29.668Z"
     },
     {
       "id": "0nt-one.dsh-neo-skin",
@@ -3878,7 +3886,7 @@
         "en": "dsh-neo-skin"
       },
       "author": "0nt-one",
-      "description": "Neo-brutalism skin for DeepSeek Harness Web UI — stacks hard-border / high-contrast --dsw-alias-* token overrides (DS-native blue + black-white + green + orange) on top of the built-in light/dark palettes.",
+      "description": "Neo-brutalism skin for the DeepSeek Harness Web UI — hard borders, high contrast, two switchable schemes (Blue Command / Aged Newspaper), works in light and dark themes.",
       "repo": "https://github.com/0nt-one/dsh-neo-skin",
       "package": "dsh-neo-skin",
       "rowId": "dsh-neo-skin",
@@ -3920,9 +3928,9 @@
       "featuredRank": 74,
       "starsSnapshot": 1,
       "releaseUpdatedAt": "2026-08-16T13:51:42.695Z",
-      "metadataUpdatedAt": "2026-08-16T14:21:20.609Z",
+      "metadataUpdatedAt": "2026-08-16T15:04:31.844Z",
       "starsUpdatedAt": "2026-08-16T13:51:42.695Z",
-      "updatedAt": "2026-08-16T14:21:20.609Z"
+      "updatedAt": "2026-08-16T15:04:31.844Z"
     },
     {
       "id": "a1swg1159-pixel.dsh-arcaea-theme",
@@ -3931,7 +3939,7 @@
         "en": "dsh-arcaea-theme"
       },
       "author": "a1swg1159-pixel",
-      "description": "An original high-key prismatic memory theme for the DeepSeek Harness web UI.",
+      "description": "An original Arcaea-inspired high-key prismatic UI theme plugin for DeepSeek Harness.",
       "repo": "https://github.com/a1swg1159-pixel/dsh-arcaea-theme",
       "package": "dsh-arcaea-theme",
       "rowId": "arcaea-theme",
@@ -3971,9 +3979,9 @@
       "featuredRank": 75,
       "starsSnapshot": 1,
       "releaseUpdatedAt": "2026-08-16T13:51:53.473Z",
-      "metadataUpdatedAt": "2026-08-16T14:21:25.754Z",
+      "metadataUpdatedAt": "2026-08-16T15:04:35.243Z",
       "starsUpdatedAt": "2026-08-16T13:51:53.473Z",
-      "updatedAt": "2026-08-16T14:21:25.754Z"
+      "updatedAt": "2026-08-16T15:04:35.243Z"
     },
     {
       "id": "alcohol-101.dsh-gif-background",
@@ -4087,7 +4095,7 @@
         "en": "dsh-client-ui-m3-theme"
       },
       "author": "DarkskyX15",
-      "description": "Material 3 theme plugin for DeepSeek Harness: full M3 token mapping (light/dark palettes with per-mode chroma) + settings panel with primary color picker, presets and preview",
+      "description": "Material 3 theme plugin for DeepSeek Harness: derives the full --dsw-* color token set from one primary color, with separate light/dark palettes (per-mode chroma, fixed contrast surfaces), plus a settings panel with color picker, presets and live preview.",
       "repo": "https://github.com/DarkskyX15/dsh-client-ui-m3-theme",
       "package": "dsh-client-ui-m3-theme",
       "rowId": "ui-m3-theme",
@@ -4127,9 +4135,9 @@
       "featuredRank": 78,
       "starsSnapshot": 1,
       "releaseUpdatedAt": "2026-08-16T13:52:11.206Z",
-      "metadataUpdatedAt": "2026-08-16T14:21:41.939Z",
+      "metadataUpdatedAt": "2026-08-16T15:04:44.399Z",
       "starsUpdatedAt": "2026-08-16T13:52:11.206Z",
-      "updatedAt": "2026-08-16T14:21:41.939Z"
+      "updatedAt": "2026-08-16T15:04:44.399Z"
     },
     {
       "id": "i1j.dsh-krill-theme",
@@ -4138,7 +4146,7 @@
         "en": "dsh-krill-theme"
       },
       "author": "i1j",
-      "description": "Deep Sea (深海世界) + Shallow Sea (浅海世界) 双模式主题插件 —— 一个插件覆盖 DSH 深/亮两套外观：深海深色（亮度编码信息层级）+ 浅海亮色（清澈度编码），含浮游生物动画背景、深潜工作态增强、水母参数入口。",
+      "description": "浮游主题（Krill）——深海世界 + 浅海世界 双模式主题插件（DSH Web）：深色=深海（亮度编码信息层级），亮色=浅海（清澈度编码）；浮游生物动画背景、深潜工作态增强、水母参数入口。dsh-plugin",
       "repo": "https://github.com/i1j/dsh-krill-theme",
       "package": "dsh-krill-theme",
       "rowId": "krill-theme",
@@ -4182,9 +4190,9 @@
       "featuredRank": 79,
       "starsSnapshot": 1,
       "releaseUpdatedAt": "2026-08-16T13:52:26.766Z",
-      "metadataUpdatedAt": "2026-08-16T14:21:53.507Z",
+      "metadataUpdatedAt": "2026-08-16T15:04:49.584Z",
       "starsUpdatedAt": "2026-08-16T13:52:26.766Z",
-      "updatedAt": "2026-08-16T14:21:53.507Z"
+      "updatedAt": "2026-08-16T15:04:49.584Z"
     },
     {
       "id": "ink5897.dsh-theme-kit",
@@ -4251,7 +4259,7 @@
         "en": "dsh-image-skin"
       },
       "author": "Jack-sun-learner",
-      "description": "图片皮肤插件：导入 PNG/JPG/WebP 自动生成主题配色（背景/强调色/高亮跟随图片主色调），并可选生成 Q 版宠物（程序化或 AI 生图）",
+      "description": "DSH 图片皮肤插件：导入 PNG/JPG/WebP 自动生成主题配色，可选 Q 版宠物（程序化/AI 生图）",
       "repo": "https://github.com/Jack-sun-learner/dsh-image-skin",
       "package": "dsh-image-skin",
       "rowId": "dsh-image-skin",
@@ -4291,9 +4299,9 @@
       "featuredRank": 81,
       "starsSnapshot": 1,
       "releaseUpdatedAt": "2026-08-16T13:52:36.792Z",
-      "metadataUpdatedAt": "2026-08-16T14:22:02.612Z",
+      "metadataUpdatedAt": "2026-08-16T15:04:53.588Z",
       "starsUpdatedAt": "2026-08-16T13:52:36.792Z",
-      "updatedAt": "2026-08-16T14:22:02.612Z"
+      "updatedAt": "2026-08-16T15:04:53.588Z"
     },
     {
       "id": "kongxiangyiren.dhs-theme-plugin",
@@ -4302,7 +4310,7 @@
         "en": "dhs-theme-plugin"
       },
       "author": "kongxiangyiren",
-      "description": "主题管理插件：设置-主题大分类，内置森林绿/海洋蓝，支持上传 __ModuleLoader__.load 格式的 JS 主题（overrideTokens + CSS + slots UI），点击切换，磁盘持久化。",
+      "description": "dsh 主题管理插件,可以自定义主题",
       "repo": "https://github.com/kongxiangyiren/dhs-theme-plugin",
       "package": "@kongxiangyiren/dhs-theme-plugin",
       "rowId": "dhs-theme-plugin",
@@ -4342,9 +4350,9 @@
       "featuredRank": 82,
       "starsSnapshot": 1,
       "releaseUpdatedAt": "2026-08-16T13:52:44.893Z",
-      "metadataUpdatedAt": "2026-08-16T14:22:10.678Z",
+      "metadataUpdatedAt": "2026-08-16T15:04:57.945Z",
       "starsUpdatedAt": "2026-08-16T13:52:44.893Z",
-      "updatedAt": "2026-08-16T14:22:10.678Z"
+      "updatedAt": "2026-08-16T15:04:57.945Z"
     },
     {
       "id": "laoduu.deepseek-harness-yizi-themes",
@@ -4353,7 +4361,7 @@
         "en": "DeepSeek-Harness-yizi-themes"
       },
       "author": "laoduu",
-      "description": "YiziMarkdown theme pack for DeepSeek Harness — 19 style themes with custom brand and prompt mapping.",
+      "description": "为 DeepSeek Harness（dsh）Web UI 提供的 19 个精品风格主题，完整移植自 YiziMarkdown 的设计语言。",
       "repo": "https://github.com/laoduu/DeepSeek-Harness-yizi-themes",
       "package": "dsh-yizi-themes",
       "rowId": "yizi-themes",
@@ -4372,7 +4380,8 @@
       "install": {
         "target": "github:laoduu/DeepSeek-Harness-yizi-themes#a557d305f1512510b275d515035c7e74e9a5f992",
         "version": "0.2.0",
-        "commit": "a557d305f1512510b275d515035c7e74e9a5f992"
+        "commit": "a557d305f1512510b275d515035c7e74e9a5f992",
+        "allowBuild": "dsh-yizi-themes@https://codeload.github.com/laoduu/DeepSeek-Harness-yizi-themes/tar.gz/a557d305f1512510b275d515035c7e74e9a5f992"
       },
       "compatibility": {
         "dsh": "unverified",
@@ -4394,10 +4403,10 @@
       },
       "featuredRank": 83,
       "starsSnapshot": 1,
-      "releaseUpdatedAt": "2026-08-16T13:52:49.212Z",
-      "metadataUpdatedAt": "2026-08-16T14:22:14.638Z",
+      "releaseUpdatedAt": "2026-08-16T15:04:59.340Z",
+      "metadataUpdatedAt": "2026-08-16T15:04:59.340Z",
       "starsUpdatedAt": "2026-08-16T13:52:49.212Z",
-      "updatedAt": "2026-08-16T14:22:14.638Z"
+      "updatedAt": "2026-08-16T15:04:59.340Z"
     },
     {
       "id": "longyu065.dsh-theme-ti",
@@ -4406,7 +4415,7 @@
         "en": "dsh-theme-ti"
       },
       "author": "longyu065",
-      "description": "Dota 2 The International (TI) skin for the DeepSeek Harness web UI: a deep-navy + teal/gold token theme with vector wings artwork, registered into the client ThemeRuntime.",
+      "description": "dsh-theme-ti",
       "repo": "https://github.com/longyu065/dsh-theme-ti",
       "package": "@dsh-theme/ti",
       "rowId": "theme-ti",
@@ -4448,9 +4457,9 @@
       "featuredRank": 84,
       "starsSnapshot": 1,
       "releaseUpdatedAt": "2026-08-16T13:53:00.319Z",
-      "metadataUpdatedAt": "2026-08-16T14:22:22.865Z",
+      "metadataUpdatedAt": "2026-08-16T15:05:03.212Z",
       "starsUpdatedAt": "2026-08-16T13:53:00.319Z",
-      "updatedAt": "2026-08-16T14:22:22.865Z"
+      "updatedAt": "2026-08-16T15:05:03.212Z"
     },
     {
       "id": "lzylyd.dsh-dracula",
@@ -4509,7 +4518,7 @@
         "en": "dsh-blue-archive-shiroko"
       },
       "author": "mldhao",
-      "description": "Blue Archive-inspired DSH theme with a Shiroko desktop companion, Codex-style reply bubbles, petting effects, completion chime, and autonomous interactions.",
+      "description": "Blue Archive-inspired DSH theme with a Shiroko desktop companion, Codex-style reply bubbles, petting effects, and completion chime.",
       "repo": "https://github.com/mldhao/dsh-blue-archive-shiroko",
       "package": "dsh-blue-archive-shiroko",
       "rowId": "blue-archive-shiroko",
@@ -4550,9 +4559,9 @@
       "featuredRank": 86,
       "starsSnapshot": 1,
       "releaseUpdatedAt": "2026-08-16T13:53:22.631Z",
-      "metadataUpdatedAt": "2026-08-16T14:22:36.620Z",
+      "metadataUpdatedAt": "2026-08-16T15:05:12.346Z",
       "starsUpdatedAt": "2026-08-16T13:53:22.631Z",
-      "updatedAt": "2026-08-16T14:22:36.620Z"
+      "updatedAt": "2026-08-16T15:05:12.346Z"
     },
     {
       "id": "mtaech.dsh-material-you",
@@ -4561,7 +4570,7 @@
         "en": "dsh-material-you"
       },
       "author": "mtaech",
-      "description": "Material You (Material 3) skin for DeepSeek Harness: HCT tonal palette + Maple Mono NF CN typography",
+      "description": "Material You (M3) skin for DeepSeek Harness: HCT tonal palette + Maple Mono NF CN, clean blue & white",
       "repo": "https://github.com/mtaech/dsh-material-you",
       "package": "@deepseek-ai/dsh-skin-material-you",
       "rowId": "ui-skin-material-you",
@@ -4602,9 +4611,9 @@
       "featuredRank": 87,
       "starsSnapshot": 1,
       "releaseUpdatedAt": "2026-08-16T13:53:28.039Z",
-      "metadataUpdatedAt": "2026-08-16T14:22:40.340Z",
+      "metadataUpdatedAt": "2026-08-16T15:05:13.579Z",
       "starsUpdatedAt": "2026-08-16T13:53:28.039Z",
-      "updatedAt": "2026-08-16T14:22:40.340Z"
+      "updatedAt": "2026-08-16T15:05:13.579Z"
     },
     {
       "id": "nineandnine-9.dsh-theme-rheostat",
@@ -4613,7 +4622,7 @@
         "en": "dsh-theme-rheostat"
       },
       "author": "nineandnine-9",
-      "description": "Sliding-rheostat theme: model + reasoning-effort driven accent, glow and gear dock for the dsh web GUI",
+      "description": "Sliding-rheostat theme plugin for the DeepSeek Harness web GUI: model + reasoning-effort driven accents, composer glow, and a whale slider.",
       "repo": "https://github.com/nineandnine-9/dsh-theme-rheostat",
       "package": "@dsh-external/dsh-theme-rheostat",
       "rowId": "ui-theme-rheostat",
@@ -4653,9 +4662,9 @@
       "featuredRank": 88,
       "starsSnapshot": 1,
       "releaseUpdatedAt": "2026-08-16T13:53:31.745Z",
-      "metadataUpdatedAt": "2026-08-16T14:22:44.291Z",
+      "metadataUpdatedAt": "2026-08-16T15:05:14.758Z",
       "starsUpdatedAt": "2026-08-16T13:53:31.745Z",
-      "updatedAt": "2026-08-16T14:22:44.291Z"
+      "updatedAt": "2026-08-16T15:05:14.758Z"
     },
     {
       "id": "oceanxuikun.dsh-eva-theme-plugin",
@@ -4719,7 +4728,7 @@
         "en": "dsh-theme-palettes"
       },
       "author": "RainbowDashy",
-      "description": "Palette infrastructure for DeepSeek Harness: scheme-mapped theme palettes with built-in VSCode Red, Solarized Dark, and Solarized Light, plus a third-party registration API",
+      "description": "dsh-theme-palettes",
       "repo": "https://github.com/RainbowDashy/dsh-theme-palettes",
       "package": "dsh-theme-palettes",
       "rowId": "theme-palettes",
@@ -4759,9 +4768,9 @@
       "featuredRank": 90,
       "starsSnapshot": 1,
       "releaseUpdatedAt": "2026-08-16T13:53:39.460Z",
-      "metadataUpdatedAt": "2026-08-16T14:22:53.931Z",
+      "metadataUpdatedAt": "2026-08-16T15:05:17.320Z",
       "starsUpdatedAt": "2026-08-16T13:53:39.460Z",
-      "updatedAt": "2026-08-16T14:22:53.931Z"
+      "updatedAt": "2026-08-16T15:05:17.320Z"
     },
     {
       "id": "rayyeung1989.claude-parchment-theme",
@@ -4770,7 +4779,7 @@
         "en": "claude-parchment-theme"
       },
       "author": "RayYeung1989",
-      "description": "一款 Claude 风格的 dsh插件：为 DeepSeek Harness WebUI 打造的 Anthropic Claude 风格主题 —— 暖羊皮纸色板、Terracotta 品牌色、衬线标题、暖调中性灰，覆盖 DSW 全部主题 token",
+      "description": "一款 Claude 风格的 dsh插件：为 DSH WebUI 打造，暖羊皮纸 Parchment 色板、Terracotta 品牌色与衬线字体",
       "repo": "https://github.com/RayYeung1989/claude-parchment-theme",
       "package": "@dsh-local/claude-parchment-theme",
       "rowId": "ui-claude-theme",
@@ -4810,9 +4819,9 @@
       "featuredRank": 91,
       "starsSnapshot": 1,
       "releaseUpdatedAt": "2026-08-16T13:53:45.052Z",
-      "metadataUpdatedAt": "2026-08-16T14:22:57.646Z",
+      "metadataUpdatedAt": "2026-08-16T15:05:18.522Z",
       "starsUpdatedAt": "2026-08-16T13:53:45.052Z",
-      "updatedAt": "2026-08-16T14:22:57.646Z"
+      "updatedAt": "2026-08-16T15:05:18.522Z"
     },
     {
       "id": "sakka6868.dsh-skin",
@@ -4873,7 +4882,7 @@
         "en": "dsh-theme-background-center"
       },
       "author": "syOPV",
-      "description": "DeepSeek Harness Web UI 主题背景中心：多款主题、梦幻渐变/自定义图片背景、毛玻璃、环绕流动氛围灯（霓虹灯管 + 邻近色渐变），全部支持持久化自动恢复。",
+      "description": "DeepSeek Harness Web UI 主题背景中心插件：主题/渐变图片背景/毛玻璃/流动氛围灯",
       "repo": "https://github.com/syOPV/dsh-theme-background-center",
       "package": "dsh-theme-background-center",
       "rowId": "theme-background-center",
@@ -4914,9 +4923,9 @@
       "featuredRank": 93,
       "starsSnapshot": 1,
       "releaseUpdatedAt": "2026-08-16T13:53:58.612Z",
-      "metadataUpdatedAt": "2026-08-16T14:23:13.964Z",
+      "metadataUpdatedAt": "2026-08-16T15:05:25.075Z",
       "starsUpdatedAt": "2026-08-16T13:53:58.612Z",
-      "updatedAt": "2026-08-16T14:23:13.964Z"
+      "updatedAt": "2026-08-16T15:05:25.075Z"
     },
     {
       "id": "tpmoonchefryan.dsh-joi-channel-theme",
@@ -4925,7 +4934,7 @@
         "en": "dsh-joi-channel-theme"
       },
       "author": "tpmoonchefryan",
-      "description": "轴伊 Joi 双衣装主题（Joi-Flowers / Joi-Library）for DeepSeek Harness — unofficial, non-commercial fan theme plugin",
+      "description": "轴伊 Joi 双衣装主题 for DeepSeek Harness — unofficial, non-commercial fan theme plugin 🍊",
       "repo": "https://github.com/tpmoonchefryan/dsh-joi-channel-theme",
       "package": "dsh-joi-channel-theme",
       "rowId": "joi-channel-theme",
@@ -4969,9 +4978,9 @@
       "featuredRank": 94,
       "starsSnapshot": 1,
       "releaseUpdatedAt": "2026-08-16T13:54:05.830Z",
-      "metadataUpdatedAt": "2026-08-16T14:23:18.001Z",
+      "metadataUpdatedAt": "2026-08-16T15:05:27.533Z",
       "starsUpdatedAt": "2026-08-16T13:54:05.830Z",
-      "updatedAt": "2026-08-16T14:23:18.001Z"
+      "updatedAt": "2026-08-16T15:05:27.533Z"
     },
     {
       "id": "wuzhong962-alt.dsh-matrix-theme",
@@ -4980,7 +4989,7 @@
         "en": "dsh-matrix-theme"
       },
       "author": "wuzhong962-alt",
-      "description": "Matrix / cyberpunk skin for the DeepSeek Harness (DSH) web GUI — a client plugin that overrides the design tokens with a green-on-black palette plus Matrix rain, CRT scanlines, a galaxy starfield, a solar system, and a perspective fighter jet.",
+      "description": "dsh-matrix-theme",
       "repo": "https://github.com/wuzhong962-alt/dsh-matrix-theme",
       "package": "dsh-matrix-theme",
       "rowId": "matrix-theme",
@@ -5020,9 +5029,9 @@
       "featuredRank": 95,
       "starsSnapshot": 1,
       "releaseUpdatedAt": "2026-08-16T13:54:27.004Z",
-      "metadataUpdatedAt": "2026-08-16T14:23:34.113Z",
+      "metadataUpdatedAt": "2026-08-16T15:05:32.362Z",
       "starsUpdatedAt": "2026-08-16T13:54:27.004Z",
-      "updatedAt": "2026-08-16T14:23:34.113Z"
+      "updatedAt": "2026-08-16T15:05:32.362Z"
     },
     {
       "id": "x9wd09ncc.dsh-x9-theme",
@@ -5031,7 +5040,7 @@
         "en": "dsh-x9-theme"
       },
       "author": "X9wd09ncc",
-      "description": "DeepSeek Harness WebUI 主题插件：6 种预设风格、背景图片（本地上传/路径/URL）、分区独立样式（毛玻璃/浮雕/霓虹等）、四区透明度、分区自定义 CSS（免 F12 显示当前样式）、字体/阴影/动效等全套外观定制",
+      "description": "一个dsh的主题修改插件",
       "repo": "https://github.com/X9wd09ncc/dsh-x9-theme",
       "package": "dsh-x9-theme",
       "rowId": "ui-x9-theme",
@@ -5075,9 +5084,9 @@
       "featuredRank": 96,
       "starsSnapshot": 1,
       "releaseUpdatedAt": "2026-08-16T13:54:32.014Z",
-      "metadataUpdatedAt": "2026-08-16T14:23:40.465Z",
+      "metadataUpdatedAt": "2026-08-16T15:05:33.591Z",
       "starsUpdatedAt": "2026-08-16T13:54:32.014Z",
-      "updatedAt": "2026-08-16T14:23:40.465Z"
+      "updatedAt": "2026-08-16T15:05:33.591Z"
     },
     {
       "id": "youzhoujimrliu.dsh-ui-wallpaper",
@@ -5103,7 +5112,8 @@
       "install": {
         "target": "github:youzhoujiMrLiu/dsh-ui-wallpaper#ea0b93014579be080580b45e0ad9a5baee0574b9",
         "version": "0.3.1",
-        "commit": "ea0b93014579be080580b45e0ad9a5baee0574b9"
+        "commit": "ea0b93014579be080580b45e0ad9a5baee0574b9",
+        "allowBuild": "dsh-ui-wallpaper@https://codeload.github.com/youzhoujiMrLiu/dsh-ui-wallpaper/tar.gz/ea0b93014579be080580b45e0ad9a5baee0574b9"
       },
       "compatibility": {
         "dsh": "^0.1.0-rc.6",
@@ -5126,10 +5136,10 @@
       },
       "featuredRank": 97,
       "starsSnapshot": 1,
-      "releaseUpdatedAt": "2026-08-16T13:54:40.449Z",
+      "releaseUpdatedAt": "2026-08-16T15:05:37.515Z",
       "metadataUpdatedAt": "2026-08-16T13:54:40.449Z",
       "starsUpdatedAt": "2026-08-16T13:54:40.449Z",
-      "updatedAt": "2026-08-16T13:54:40.449Z"
+      "updatedAt": "2026-08-16T15:05:37.515Z"
     },
     {
       "id": "adaning.dsh-pixel-skin",
@@ -5138,7 +5148,7 @@
         "en": "dsh-pixel-skin"
       },
       "author": "ADAning",
-      "description": "8-bit pixel skin for the DeepSeek Harness web GUI: Fusion Pixel type, chunky CRT palette, hard-edged controls and scanlines.",
+      "description": "8-bit / CRT skin plugin for the DeepSeek Harness web GUI",
       "repo": "https://github.com/ADAning/dsh-pixel-skin",
       "package": "dsh-pixel-skin",
       "rowId": "dsh-pixel-skin",
@@ -5182,9 +5192,9 @@
       "featuredRank": 98,
       "starsSnapshot": 0,
       "releaseUpdatedAt": "2026-08-16T13:54:49.092Z",
-      "metadataUpdatedAt": "2026-08-16T14:23:56.361Z",
+      "metadataUpdatedAt": "2026-08-16T15:05:39.972Z",
       "starsUpdatedAt": "2026-08-16T13:54:49.092Z",
-      "updatedAt": "2026-08-16T14:23:56.361Z"
+      "updatedAt": "2026-08-16T15:05:39.972Z"
     },
     {
       "id": "cdxdnrf.wishadel-theme",
@@ -5193,7 +5203,7 @@
         "en": "wishadel-theme"
       },
       "author": "cdxDNRF",
-      "description": "Wishadel demolition-terminal skin + task board, git graph, project panel and settings center for DeepSeek Harness Web GUI",
+      "description": "dsh主题维什戴尔风格",
       "repo": "https://github.com/cdxDNRF/wishadel-theme",
       "package": "@cdxdnrf/dsh-client-ui-skin-wishadel",
       "rowId": "ui-skin-wishadel",
@@ -5210,7 +5220,8 @@
       "install": {
         "target": "github:cdxDNRF/wishadel-theme#b78f51e6fd702d839a333de603022d68ca0ed248",
         "version": "0.6.0",
-        "commit": "b78f51e6fd702d839a333de603022d68ca0ed248"
+        "commit": "b78f51e6fd702d839a333de603022d68ca0ed248",
+        "allowBuild": "@cdxdnrf/dsh-client-ui-skin-wishadel@https://codeload.github.com/cdxDNRF/wishadel-theme/tar.gz/b78f51e6fd702d839a333de603022d68ca0ed248"
       },
       "compatibility": {
         "dsh": "0.1.0-rc.6",
@@ -5233,10 +5244,10 @@
       },
       "featuredRank": 99,
       "starsSnapshot": 0,
-      "releaseUpdatedAt": "2026-08-16T13:54:53.805Z",
-      "metadataUpdatedAt": "2026-08-16T14:24:00.652Z",
+      "releaseUpdatedAt": "2026-08-16T15:05:42.376Z",
+      "metadataUpdatedAt": "2026-08-16T15:05:42.376Z",
       "starsUpdatedAt": "2026-08-16T13:54:53.805Z",
-      "updatedAt": "2026-08-16T14:24:00.652Z"
+      "updatedAt": "2026-08-16T15:05:42.376Z"
     },
     {
       "id": "charlesaq.dsh-fgo-chaldea",
@@ -5245,7 +5256,7 @@
         "en": "dsh-fgo-chaldea"
       },
       "author": "CharlesAQ",
-      "description": "FGO Chaldea-inspired skin pack for DeepSeek Harness Web UI: 5 token themes (Chaldea night/dawn, Artoria, Morgan, Mash), original generated backdrops, gold trim, and a settings-row skin picker.",
+      "description": "FGO Chaldea-inspired skin pack for DeepSeek Harness Web UI: 5 themes, original generated backdrops, gold trim.",
       "repo": "https://github.com/CharlesAQ/dsh-fgo-chaldea",
       "package": "dsh-fgo-chaldea",
       "rowId": "fgo-chaldea",
@@ -5287,9 +5298,9 @@
       "featuredRank": 100,
       "starsSnapshot": 0,
       "releaseUpdatedAt": "2026-08-16T13:54:57.394Z",
-      "metadataUpdatedAt": "2026-08-16T14:24:05.115Z",
+      "metadataUpdatedAt": "2026-08-16T15:05:43.589Z",
       "starsUpdatedAt": "2026-08-16T13:54:57.394Z",
-      "updatedAt": "2026-08-16T14:24:05.115Z"
+      "updatedAt": "2026-08-16T15:05:43.589Z"
     },
     {
       "id": "cnskycn.shuimo-skin",
@@ -5298,7 +5309,7 @@
         "en": "shuimo-skin"
       },
       "author": "cnskycn",
-      "description": "水墨国风皮肤 for DeepSeek Harness Web: rice-paper warm palette + ink bamboo / distant mountains / plum blossom / seal decorations + falling bamboo leaves animation",
+      "description": "????????? for DeepSeek Harness Web: rice-paper palette + ink bamboo/mountains/plum/seal decorations + falling leaves",
       "repo": "https://github.com/cnskycn/shuimo-skin",
       "package": "shuimo-skin",
       "rowId": "shuimo-skin",
@@ -5337,9 +5348,9 @@
       "featuredRank": 101,
       "starsSnapshot": 0,
       "releaseUpdatedAt": "2026-08-16T13:55:01.116Z",
-      "metadataUpdatedAt": "2026-08-16T14:24:09.635Z",
+      "metadataUpdatedAt": "2026-08-16T15:05:46.128Z",
       "starsUpdatedAt": "2026-08-16T13:55:01.116Z",
-      "updatedAt": "2026-08-16T14:24:09.635Z"
+      "updatedAt": "2026-08-16T15:05:46.128Z"
     },
     {
       "id": "dac114514.dsh-theme-center",
@@ -5402,7 +5413,7 @@
         "en": "dsh-skin-kamisato"
       },
       "author": "Danieltoraji",
-      "description": "「神里印象」DeepSeek Harness 皮肤插件：神里纹章/绫华取色的青蓝·蓝紫金主题 + 汉仪文黑标题字体（浅色/深色双配色）。",
+      "description": "以《原神》神里绫华为灵感制作的印象皮肤。",
       "repo": "https://github.com/Danieltoraji/dsh-skin-kamisato",
       "package": "dsh-skin-kamisato",
       "rowId": "skin-kamisato",
@@ -5440,9 +5451,9 @@
       "featuredRank": 103,
       "starsSnapshot": 0,
       "releaseUpdatedAt": "2026-08-16T13:55:09.178Z",
-      "metadataUpdatedAt": "2026-08-16T14:24:18.855Z",
+      "metadataUpdatedAt": "2026-08-16T15:05:48.698Z",
       "starsUpdatedAt": "2026-08-16T13:55:09.178Z",
-      "updatedAt": "2026-08-16T14:24:18.855Z"
+      "updatedAt": "2026-08-16T15:05:48.698Z"
     },
     {
       "id": "gooosie.dsh-whale-bg",
@@ -5451,7 +5462,7 @@
         "en": "dsh-whale-bg"
       },
       "author": "gooosie",
-      "description": "Unofficial DeepSeek Harness Web UI particle-whale background with cursor lighting, idle swimming, and scroll-aware fade.",
+      "description": "Unofficial DeepSeek Harness particle-whale background plugin with cursor lighting and theme support.",
       "repo": "https://github.com/gooosie/dsh-whale-bg",
       "package": "dsh-whale-bg",
       "rowId": "whale-bg",
@@ -5470,7 +5481,8 @@
       "install": {
         "target": "github:gooosie/dsh-whale-bg#2746a7eacba5c0dde28e29d00b6b15f1f2894164",
         "version": "0.1.0",
-        "commit": "2746a7eacba5c0dde28e29d00b6b15f1f2894164"
+        "commit": "2746a7eacba5c0dde28e29d00b6b15f1f2894164",
+        "allowBuild": "dsh-whale-bg@https://codeload.github.com/gooosie/dsh-whale-bg/tar.gz/2746a7eacba5c0dde28e29d00b6b15f1f2894164"
       },
       "compatibility": {
         "dsh": "0.1.0-rc.6",
@@ -5492,10 +5504,10 @@
       },
       "featuredRank": 104,
       "starsSnapshot": 0,
-      "releaseUpdatedAt": "2026-08-16T13:55:34.455Z",
-      "metadataUpdatedAt": "2026-08-16T14:24:40.999Z",
+      "releaseUpdatedAt": "2026-08-16T15:05:56.962Z",
+      "metadataUpdatedAt": "2026-08-16T15:05:56.962Z",
       "starsUpdatedAt": "2026-08-16T13:55:34.455Z",
-      "updatedAt": "2026-08-16T14:24:40.999Z"
+      "updatedAt": "2026-08-16T15:05:56.962Z"
     },
     {
       "id": "gptsapp.dsh-stylevault",
@@ -5504,7 +5516,7 @@
         "en": "dsh-stylevault"
       },
       "author": "GptsApp",
-      "description": "StyleVault — classic open-source themes + full Style Settings + shareable config packs for DeepSeek Harness.",
+      "description": "StyleVault — classic themes + Style Settings for DeepSeek Harness (30 palettes, shareable configs)",
       "repo": "https://github.com/GptsApp/dsh-stylevault",
       "package": "dsh-stylevault",
       "rowId": "stylevault",
@@ -5550,9 +5562,9 @@
       "featuredRank": 105,
       "starsSnapshot": 0,
       "releaseUpdatedAt": "2026-08-16T13:55:39.547Z",
-      "metadataUpdatedAt": "2026-08-16T14:24:46.251Z",
+      "metadataUpdatedAt": "2026-08-16T15:05:58.116Z",
       "starsUpdatedAt": "2026-08-16T13:55:39.547Z",
-      "updatedAt": "2026-08-16T14:24:46.251Z"
+      "updatedAt": "2026-08-16T15:05:58.116Z"
     },
     {
       "id": "haibala-aii.dsh-extensions-wallpaperskin",
@@ -5610,7 +5622,7 @@
         "en": "dsh-task-console"
       },
       "author": "He2way",
-      "description": "DSH client plugin — flip to the back of the page for a floating glass task console: live background jobs, subagents, session overview and workspace of the current session, with mouse-draggable cards.",
+      "description": "DSH client plugin: a floating glass task console on the back of the page — live background jobs, subagents, session overview and workspace for the current session, with mouse-draggable cards.",
       "repo": "https://github.com/He2way/dsh-task-console",
       "package": "dsh-task-console",
       "rowId": "task-console",
@@ -5650,9 +5662,9 @@
       "featuredRank": 107,
       "starsSnapshot": 0,
       "releaseUpdatedAt": "2026-08-16T13:55:53.334Z",
-      "metadataUpdatedAt": "2026-08-16T14:25:05.156Z",
+      "metadataUpdatedAt": "2026-08-16T15:06:02.025Z",
       "starsUpdatedAt": "2026-08-16T13:55:53.334Z",
-      "updatedAt": "2026-08-16T14:25:05.156Z"
+      "updatedAt": "2026-08-16T15:06:02.025Z"
     },
     {
       "id": "jayliu2025-vip.dsh-fate-twin-contract",
@@ -5661,7 +5673,7 @@
         "en": "dsh-fate-twin-contract"
       },
       "author": "Jayliu2025-vip",
-      "description": "Unofficial Fate-inspired Archer × Rin skin for the DeepSeek Harness Web GUI",
+      "description": "Unofficial Fate-inspired Archer × Rin skin for the DeepSeek Harness Web GUI — original fan art, light/dark modes, offline and reversible.",
       "repo": "https://github.com/Jayliu2025-vip/dsh-fate-twin-contract",
       "package": "dsh-fate-twin-contract",
       "rowId": "ui-skin-fate-twin-contract",
@@ -5703,9 +5715,9 @@
       "featuredRank": 108,
       "starsSnapshot": 0,
       "releaseUpdatedAt": "2026-08-16T13:55:59.921Z",
-      "metadataUpdatedAt": "2026-08-16T14:25:13.940Z",
+      "metadataUpdatedAt": "2026-08-16T15:06:06.097Z",
       "starsUpdatedAt": "2026-08-16T13:55:59.921Z",
-      "updatedAt": "2026-08-16T14:25:13.940Z"
+      "updatedAt": "2026-08-16T15:06:06.097Z"
     },
     {
       "id": "jayliu2025-vip.dsh-theme-huluwa",
@@ -5714,7 +5726,7 @@
         "en": "dsh-theme-huluwa"
       },
       "author": "Jayliu2025-vip",
-      "description": "葫芦娃（Calabash Brothers）主题 for the DeepSeek Harness Web UI — 七兄弟七彩配色、葫芦宝匣控制台、山中时钟、修炼中状态、蛇精/宝葫芦彩蛋，暖色宣纸底，全部音效 Web Audio 实时合成。",
+      "description": "葫芦娃（Calabash Brothers）theme plugin for DeepSeek Harness Web UI — 七兄弟七彩配色、葫芦宝匣控制台、山中时钟、修炼中状态、蛇精/宝葫芦彩蛋 | Huluwa theme for DSH",
       "repo": "https://github.com/Jayliu2025-vip/dsh-theme-huluwa",
       "package": "dsh-theme-huluwa",
       "rowId": "ui-theme-huluwa",
@@ -5753,9 +5765,9 @@
       "featuredRank": 109,
       "starsSnapshot": 0,
       "releaseUpdatedAt": "2026-08-16T13:56:03.838Z",
-      "metadataUpdatedAt": "2026-08-16T14:25:18.106Z",
+      "metadataUpdatedAt": "2026-08-16T15:06:07.237Z",
       "starsUpdatedAt": "2026-08-16T13:56:03.838Z",
-      "updatedAt": "2026-08-16T14:25:18.106Z"
+      "updatedAt": "2026-08-16T15:06:07.237Z"
     },
     {
       "id": "leemancheung.dsh-whale-companion",
@@ -5815,7 +5827,7 @@
         "en": "dsh-815-skin"
       },
       "author": "lengduan",
-      "description": "1945 终战皮肤：陈坚《公元一九四五年九月九日九时》作为 DeepSeek Harness Web 背景",
+      "description": "1945-08-15 世界名画 dsh皮肤",
       "repo": "https://github.com/lengduan/dsh-815-skin",
       "package": "@lengduan/dsh-client-ui-skin-815",
       "rowId": "ui-skin-815",
@@ -5855,9 +5867,9 @@
       "featuredRank": 111,
       "starsSnapshot": 0,
       "releaseUpdatedAt": "2026-08-16T13:56:26.825Z",
-      "metadataUpdatedAt": "2026-08-16T14:25:43.466Z",
+      "metadataUpdatedAt": "2026-08-16T15:06:15.957Z",
       "starsUpdatedAt": "2026-08-16T13:56:26.825Z",
-      "updatedAt": "2026-08-16T14:25:43.466Z"
+      "updatedAt": "2026-08-16T15:06:15.957Z"
     },
     {
       "id": "licheng-ma.dsh-wechat-skin",
@@ -5866,7 +5878,7 @@
         "en": "dsh-wechat-skin"
       },
       "author": "licheng-ma",
-      "description": "微信风格皮肤 for DeepSeek Harness — WeChat-style light theme for DeepSeek Harness: green bubbles, WeChat green accents, conversation-list sidebar, a far-left function rail, message avatars, and a resizable composer. Light mode only; dark mode falls back to the official look.",
+      "description": "微信风格皮肤 for DeepSeek Harness — WeChat-style light theme for DeepSeek Harness",
       "repo": "https://github.com/licheng-ma/dsh-wechat-skin",
       "package": "dsh-wechat-skin",
       "rowId": "wechat-skin",
@@ -5905,9 +5917,9 @@
       "featuredRank": 112,
       "starsSnapshot": 0,
       "releaseUpdatedAt": "2026-08-16T13:56:36.780Z",
-      "metadataUpdatedAt": "2026-08-16T14:25:47.579Z",
+      "metadataUpdatedAt": "2026-08-16T15:06:18.872Z",
       "starsUpdatedAt": "2026-08-16T13:56:36.780Z",
-      "updatedAt": "2026-08-16T14:25:47.579Z"
+      "updatedAt": "2026-08-16T15:06:18.872Z"
     },
     {
       "id": "linzhuolisoc.dsh-skin-study",
@@ -5916,7 +5928,7 @@
         "en": "dsh-skin-study"
       },
       "author": "linzhuoliSOC",
-      "description": "DeepSeek Harness 3D 书房。Cozy Study skin for DSH web.",
+      "description": "deepseek harness 3D 书房皮肤",
       "repo": "https://github.com/linzhuoliSOC/dsh-skin-study",
       "package": "dsh-skin-study",
       "rowId": "ui-skin-study",
@@ -5953,9 +5965,9 @@
       "featuredRank": 113,
       "starsSnapshot": 0,
       "releaseUpdatedAt": "2026-08-16T13:56:41.045Z",
-      "metadataUpdatedAt": "2026-08-16T14:25:51.550Z",
+      "metadataUpdatedAt": "2026-08-16T15:06:20.009Z",
       "starsUpdatedAt": "2026-08-16T13:56:41.045Z",
-      "updatedAt": "2026-08-16T14:25:51.550Z"
+      "updatedAt": "2026-08-16T15:06:20.009Z"
     },
     {
       "id": "mizuhara37.dsh-nene-theme",
@@ -5964,7 +5976,7 @@
         "en": "dsh-nene-theme"
       },
       "author": "mizuhara37",
-      "description": "草薙宁宁同人主题（DeepSeek Harness 客户端插件）：日夜背景 + 可拖动立绘 + 状态台词",
+      "description": "dsh-nene-theme",
       "repo": "https://github.com/mizuhara37/dsh-nene-theme",
       "package": "dsh-nene-theme",
       "rowId": "nene-theme",
@@ -5983,7 +5995,8 @@
       "install": {
         "target": "github:mizuhara37/dsh-nene-theme#dcf7642211a84114186a7f12e1a6efbe5d7d36e1",
         "version": "0.1.0",
-        "commit": "dcf7642211a84114186a7f12e1a6efbe5d7d36e1"
+        "commit": "dcf7642211a84114186a7f12e1a6efbe5d7d36e1",
+        "allowBuild": "dsh-nene-theme@https://codeload.github.com/mizuhara37/dsh-nene-theme/tar.gz/dcf7642211a84114186a7f12e1a6efbe5d7d36e1"
       },
       "compatibility": {
         "dsh": "unverified",
@@ -6005,10 +6018,10 @@
       },
       "featuredRank": 114,
       "starsSnapshot": 0,
-      "releaseUpdatedAt": "2026-08-16T13:56:45.550Z",
-      "metadataUpdatedAt": "2026-08-16T14:25:55.049Z",
+      "releaseUpdatedAt": "2026-08-16T15:06:22.731Z",
+      "metadataUpdatedAt": "2026-08-16T15:06:22.731Z",
       "starsUpdatedAt": "2026-08-16T13:56:45.550Z",
-      "updatedAt": "2026-08-16T14:25:55.049Z"
+      "updatedAt": "2026-08-16T15:06:22.731Z"
     },
     {
       "id": "morinissleeping.dsh-pnc-theme",
@@ -6017,7 +6030,7 @@
         "en": "dsh-pnc-theme"
       },
       "author": "Morinissleeping",
-      "description": "PNC 云图风格主题插件（自包含可移植版）：背景视频/等高线/康威/配额条/LLM 活跃度评分",
+      "description": "dsh-pnc-theme",
       "repo": "https://github.com/Morinissleeping/dsh-pnc-theme",
       "package": "@dsh-external/dsh-pnc-theme",
       "rowId": "dsh-pnc-theme",
@@ -6058,9 +6071,9 @@
       "featuredRank": 115,
       "starsSnapshot": 0,
       "releaseUpdatedAt": "2026-08-16T13:56:51.169Z",
-      "metadataUpdatedAt": "2026-08-16T14:25:59.139Z",
+      "metadataUpdatedAt": "2026-08-16T15:06:24.445Z",
       "starsUpdatedAt": "2026-08-16T13:56:51.169Z",
-      "updatedAt": "2026-08-16T14:25:59.139Z"
+      "updatedAt": "2026-08-16T15:06:24.445Z"
     },
     {
       "id": "noexcs.dsh-skin-glass",
@@ -6122,7 +6135,7 @@
         "en": "dsh-theme-colorizer"
       },
       "author": "RealHacker",
-      "description": "DSH plugin: adds customizable color themes to the DeepSeek Web UI, selectable in the Settings page",
+      "description": "A Deepseek Harness plugin that gives its UI color themes",
       "repo": "https://github.com/RealHacker/dsh-theme-colorizer",
       "package": "dsh-theme-colorizer",
       "rowId": "theme-colorizer",
@@ -6162,9 +6175,9 @@
       "featuredRank": 117,
       "starsSnapshot": 0,
       "releaseUpdatedAt": "2026-08-16T13:57:07.914Z",
-      "metadataUpdatedAt": "2026-08-16T14:26:10.313Z",
+      "metadataUpdatedAt": "2026-08-16T15:06:30.319Z",
       "starsUpdatedAt": "2026-08-16T13:57:07.914Z",
-      "updatedAt": "2026-08-16T14:26:10.313Z"
+      "updatedAt": "2026-08-16T15:06:30.319Z"
     },
     {
       "id": "reluckylucy.dsh-rhine-lab-themo",
@@ -6173,7 +6186,7 @@
         "en": "dsh_Rhine_Lab_themo"
       },
       "author": "ReLuckyLucy",
-      "description": "Arknights Rhine Lab archive-terminal reconstruction for the DeepSeek Harness Web GUI, with reversible deep styling and restrained institutional HUD",
+      "description": "Arknights Rhine Lab (莱茵生命) skin for the DeepSeek Harness Web GUI",
       "repo": "https://github.com/ReLuckyLucy/dsh_Rhine_Lab_themo",
       "package": "dsh-theme-rhine-lab",
       "rowId": "ui-theme-rhine-lab",
@@ -6190,7 +6203,8 @@
       "install": {
         "target": "github:ReLuckyLucy/dsh_Rhine_Lab_themo#54c2f2611f6bc6e36a784cc33908ad29bccef2b7",
         "version": "0.2.0",
-        "commit": "54c2f2611f6bc6e36a784cc33908ad29bccef2b7"
+        "commit": "54c2f2611f6bc6e36a784cc33908ad29bccef2b7",
+        "allowBuild": "dsh-theme-rhine-lab@https://codeload.github.com/ReLuckyLucy/dsh_Rhine_Lab_themo/tar.gz/54c2f2611f6bc6e36a784cc33908ad29bccef2b7"
       },
       "compatibility": {
         "dsh": ">=0.0.1-rc.1 <1",
@@ -6213,10 +6227,10 @@
       },
       "featuredRank": 118,
       "starsSnapshot": 0,
-      "releaseUpdatedAt": "2026-08-16T14:26:15.903Z",
-      "metadataUpdatedAt": "2026-08-16T14:26:15.903Z",
+      "releaseUpdatedAt": "2026-08-16T15:06:32.051Z",
+      "metadataUpdatedAt": "2026-08-16T15:06:32.051Z",
       "starsUpdatedAt": "2026-08-16T13:57:12.755Z",
-      "updatedAt": "2026-08-16T14:26:15.903Z"
+      "updatedAt": "2026-08-16T15:06:32.051Z"
     },
     {
       "id": "seekerwxy.dsh-aurora-theme",
@@ -6225,7 +6239,7 @@
         "en": "dsh-aurora-theme"
       },
       "author": "seekerwxy",
-      "description": "DSH 双面插件：深黑冷色调主题 + 星网/极光背景 + 主题设置（开启/关闭、动态/静态）。同时提供动态版 client.js 与静态双面包（lib/index.js + lib/client.js）。",
+      "description": "DSH ????:??????? + ??/???? + ??/??????",
       "repo": "https://github.com/seekerwxy/dsh-aurora-theme",
       "package": "dsh-aurora-theme",
       "rowId": "aurora-theme",
@@ -6265,9 +6279,9 @@
       "featuredRank": 119,
       "starsSnapshot": 0,
       "releaseUpdatedAt": "2026-08-16T13:57:29.957Z",
-      "metadataUpdatedAt": "2026-08-16T14:26:36.167Z",
+      "metadataUpdatedAt": "2026-08-16T15:06:38.077Z",
       "starsUpdatedAt": "2026-08-16T13:57:29.957Z",
-      "updatedAt": "2026-08-16T14:26:36.167Z"
+      "updatedAt": "2026-08-16T15:06:38.077Z"
     },
     {
       "id": "shenmy-git.dsh-weather-plugin",
@@ -6276,7 +6290,7 @@
         "en": "dsh-weather-plugin"
       },
       "author": "shenmy-git",
-      "description": "天气查询工具 + 根据天气自动切换应用主题的 UI 增强插件（DSH plugin marketplace）",
+      "description": "DSH plugin: weather tool + immersive weather theming + FishLogo whale pet (theme/ambient/sound/HUD)",
       "repo": "https://github.com/shenmy-git/dsh-weather-plugin",
       "package": "dsh-weather-plugin",
       "rowId": "weather",
@@ -6292,7 +6306,8 @@
       "install": {
         "target": "github:shenmy-git/dsh-weather-plugin#3f94f1569a0f9193a7ff5bb7bb8000b8e6b05a36",
         "version": "1.0.0",
-        "commit": "3f94f1569a0f9193a7ff5bb7bb8000b8e6b05a36"
+        "commit": "3f94f1569a0f9193a7ff5bb7bb8000b8e6b05a36",
+        "allowBuild": "dsh-weather-plugin@https://codeload.github.com/shenmy-git/dsh-weather-plugin/tar.gz/3f94f1569a0f9193a7ff5bb7bb8000b8e6b05a36"
       },
       "compatibility": {
         "dsh": "^0.1.0-rc.6",
@@ -6314,10 +6329,10 @@
       },
       "featuredRank": 120,
       "starsSnapshot": 0,
-      "releaseUpdatedAt": "2026-08-16T13:57:34.783Z",
-      "metadataUpdatedAt": "2026-08-16T14:26:41.152Z",
+      "releaseUpdatedAt": "2026-08-16T15:06:39.369Z",
+      "metadataUpdatedAt": "2026-08-16T15:06:39.369Z",
       "starsUpdatedAt": "2026-08-16T13:57:34.783Z",
-      "updatedAt": "2026-08-16T14:26:41.152Z"
+      "updatedAt": "2026-08-16T15:06:39.369Z"
     },
     {
       "id": "thjyy.dph-endfield-theme",
@@ -6326,7 +6341,7 @@
         "en": "dph-endfield-theme"
       },
       "author": "thjyy",
-      "description": "Unofficial industrial Endfield-inspired theme bundle for DeepSeek Harness Web.",
+      "description": "Unofficial Endfield-inspired theme and animated mascot for DeepSeek Harness Web",
       "repo": "https://github.com/thjyy/dph-endfield-theme",
       "package": "dph-endfield-theme",
       "rowId": "dph-endfield-theme",
@@ -6371,9 +6386,9 @@
       "featuredRank": 121,
       "starsSnapshot": 0,
       "releaseUpdatedAt": "2026-08-16T13:57:46.646Z",
-      "metadataUpdatedAt": "2026-08-16T14:26:54.042Z",
+      "metadataUpdatedAt": "2026-08-16T15:06:45.608Z",
       "starsUpdatedAt": "2026-08-16T13:57:46.646Z",
-      "updatedAt": "2026-08-16T14:26:54.042Z"
+      "updatedAt": "2026-08-16T15:06:45.608Z"
     },
     {
       "id": "tiantyu.dsh-skin-toggle",
@@ -6382,7 +6397,7 @@
         "en": "dsh-skin-toggle"
       },
       "author": "tiantyu",
-      "description": "Instant on/off toggle button for the maid-atelier skin (深海女仆工坊) in the DeepSeek Harness (DSH) web GUI. Pure client-side presentation utility.",
+      "description": "Instant on/off 🐋 toggle button for the maid-atelier skin in the DeepSeek Harness (DSH) web GUI. Pure client-side plugin.",
       "repo": "https://github.com/tiantyu/dsh-skin-toggle",
       "package": "dsh-skin-toggle",
       "rowId": "ui-skin-toggle",
@@ -6422,9 +6437,9 @@
       "featuredRank": 122,
       "starsSnapshot": 0,
       "releaseUpdatedAt": "2026-08-16T13:57:51.456Z",
-      "metadataUpdatedAt": "2026-08-16T14:27:00.843Z",
+      "metadataUpdatedAt": "2026-08-16T15:06:46.951Z",
       "starsUpdatedAt": "2026-08-16T13:57:51.456Z",
-      "updatedAt": "2026-08-16T14:27:00.843Z"
+      "updatedAt": "2026-08-16T15:06:46.951Z"
     },
     {
       "id": "vlantech.dsh-glassic-mist-theme",
@@ -6433,7 +6448,7 @@
         "en": "dsh-glassic-mist-theme"
       },
       "author": "VlanTech",
-      "description": "Glassic Mist 雾蓝主题：极浅雾蓝界面 + 云端动效背景 + 全弹窗毛玻璃质感；设置持久化开关 + /misttheme 命令",
+      "description": "Glassic Mist 雾蓝主题 for DeepSeek Harness: mist-blue veil + drifting cloud animation + frosted-glass UI (dsh-mistblue plugin)",
       "repo": "https://github.com/VlanTech/dsh-glassic-mist-theme",
       "package": "dsh-mistblue",
       "rowId": "mistblue",
@@ -6474,9 +6489,9 @@
       "featuredRank": 123,
       "starsSnapshot": 0,
       "releaseUpdatedAt": "2026-08-16T13:57:56.238Z",
-      "metadataUpdatedAt": "2026-08-16T14:27:09.560Z",
+      "metadataUpdatedAt": "2026-08-16T15:06:49.466Z",
       "starsUpdatedAt": "2026-08-16T13:57:56.238Z",
-      "updatedAt": "2026-08-16T14:27:09.560Z"
+      "updatedAt": "2026-08-16T15:06:49.466Z"
     },
     {
       "id": "wolfsonliu.dsh-file-explorer-preview-code",
@@ -6485,7 +6500,7 @@
         "en": "dsh-file-explorer-preview-code"
       },
       "author": "wolfsonliu",
-      "description": "CodeMirror 6 code preview and editor for DSH Web, overriding dsh-file-explorer's plain-text preview with per-language syntax highlighting",
+      "description": "DSH Web file-explorer preview plugin: code preview & editor for DSH Web — per-language syntax highlighting, in-place editing with autosave, and dark/light themes. Overrides dsh-file-explorer's plain-text preview. | DSH Web 文件浏览器插件: 代码预览与编辑插件——按语言语法高亮、就地编辑自动保存、深色/浅色主题，覆盖 dsh-file-explorer 的纯文本预览。",
       "repo": "https://github.com/wolfsonliu/dsh-file-explorer-preview-code",
       "package": "@dsh-external/dsh-file-explorer-preview-code",
       "rowId": "file-explorer-preview-code",
@@ -6526,9 +6541,9 @@
       "featuredRank": 124,
       "starsSnapshot": 0,
       "releaseUpdatedAt": "2026-08-16T13:58:05.239Z",
-      "metadataUpdatedAt": "2026-08-16T14:27:16.553Z",
+      "metadataUpdatedAt": "2026-08-16T15:06:52.041Z",
       "starsUpdatedAt": "2026-08-16T13:58:05.239Z",
-      "updatedAt": "2026-08-16T14:27:16.553Z"
+      "updatedAt": "2026-08-16T15:06:52.041Z"
     },
     {
       "id": "wuwl-98.dsh-theme-paper",
@@ -6537,7 +6552,7 @@
         "en": "dsh-theme-paper"
       },
       "author": "WuWL-98",
-      "description": "纸质主题 — a warm paper-texture appearance for DeepSeek Harness, inspired by Claude Code (cream paper, ink text, terracotta accents).",
+      "description": "deepseek harness 开发者预览版纸质仿claude主题",
       "repo": "https://github.com/WuWL-98/dsh-theme-paper",
       "package": "dsh-theme-paper",
       "rowId": "theme-paper",
@@ -6579,9 +6594,9 @@
       "featuredRank": 125,
       "starsSnapshot": 0,
       "releaseUpdatedAt": "2026-08-16T13:58:11.377Z",
-      "metadataUpdatedAt": "2026-08-16T14:27:22.435Z",
+      "metadataUpdatedAt": "2026-08-16T15:06:53.491Z",
       "starsUpdatedAt": "2026-08-16T13:58:11.377Z",
-      "updatedAt": "2026-08-16T14:27:22.435Z"
+      "updatedAt": "2026-08-16T15:06:53.491Z"
     },
     {
       "id": "xiaoyanzi191.dsh-premium-themes",
@@ -6590,7 +6605,7 @@
         "en": "dsh-premium-themes"
       },
       "author": "xiaoyanzi191",
-      "description": "Standalone premium-palette plugin for dsh Web: eight curated color schemes plus custom palette import (name + scheme + seed colors -> derived full token map), a Palette row in General settings, durable per-plugin persistence, and hot-plug install via dsh plugin",
+      "description": "Premium color palettes for DeepSeek Harness — 8 built-in + custom import (热插拔主题插件)",
       "repo": "https://github.com/xiaoyanzi191/dsh-premium-themes",
       "package": "@deepseek-ai/dsh-client-ui-premium-themes",
       "rowId": "premium-themes",
@@ -6609,7 +6624,8 @@
       "install": {
         "target": "github:xiaoyanzi191/dsh-premium-themes#7e485999e45711396ba08806a40c9bfe3c650103",
         "version": "0.1.0",
-        "commit": "7e485999e45711396ba08806a40c9bfe3c650103"
+        "commit": "7e485999e45711396ba08806a40c9bfe3c650103",
+        "allowBuild": "@deepseek-ai/dsh-client-ui-premium-themes@https://codeload.github.com/xiaoyanzi191/dsh-premium-themes/tar.gz/7e485999e45711396ba08806a40c9bfe3c650103"
       },
       "compatibility": {
         "dsh": "^0.1.0-rc.6",
@@ -6635,10 +6651,10 @@
       },
       "featuredRank": 126,
       "starsSnapshot": 0,
-      "releaseUpdatedAt": "2026-08-16T13:58:16.091Z",
-      "metadataUpdatedAt": "2026-08-16T14:27:26.274Z",
+      "releaseUpdatedAt": "2026-08-16T15:06:54.825Z",
+      "metadataUpdatedAt": "2026-08-16T15:06:54.825Z",
       "starsUpdatedAt": "2026-08-16T13:58:16.091Z",
-      "updatedAt": "2026-08-16T14:27:26.274Z"
+      "updatedAt": "2026-08-16T15:06:54.825Z"
     },
     {
       "id": "youyli03.dsh-palenight-theme",
@@ -6647,7 +6663,7 @@
         "en": "dsh-palenight-theme"
       },
       "author": "youyli03",
-      "description": "Persistent DeepSeek Palenight Theme for dsh — a dsh client bundle (survives restarts, unlike the dynamic-plugin form).",
+      "description": "A dynamic Cordis plugin that themes the dsh Harness Web UI — Palenight dark + warm-neutral light",
       "repo": "https://github.com/youyli03/dsh-palenight-theme",
       "package": "dsh-palenight-theme",
       "rowId": "dsh-palenight-theme",
@@ -6688,9 +6704,9 @@
       "featuredRank": 127,
       "starsSnapshot": 0,
       "releaseUpdatedAt": "2026-08-16T13:58:24.026Z",
-      "metadataUpdatedAt": "2026-08-16T14:27:35.126Z",
+      "metadataUpdatedAt": "2026-08-16T15:06:58.257Z",
       "starsUpdatedAt": "2026-08-16T13:58:24.026Z",
-      "updatedAt": "2026-08-16T14:27:35.126Z"
+      "updatedAt": "2026-08-16T15:06:58.257Z"
     },
     {
       "id": "yuqisun.dsh-theme-machine",
@@ -6699,7 +6715,7 @@
         "en": "dsh-theme-machine"
       },
       "author": "yuqisun",
-      "description": "Person-of-Interest skin for DeepSeek Harness: THE MACHINE surveillance-HUD theme (dark, cyan-on-black). Token override layer + HUD chrome + live telemetry panel for the dsh web UI.",
+      "description": "A Person-of-Interest surveillance-terminal theme for deepseek-harness — the machine is watching.",
       "repo": "https://github.com/yuqisun/dsh-theme-machine",
       "package": "dsh-theme-machine",
       "rowId": "theme-machine",
@@ -6715,7 +6731,8 @@
       "install": {
         "target": "github:yuqisun/dsh-theme-machine#58766c63e3ae487b84b3902b2467d85f9c8f9b83",
         "version": "0.1.1",
-        "commit": "58766c63e3ae487b84b3902b2467d85f9c8f9b83"
+        "commit": "58766c63e3ae487b84b3902b2467d85f9c8f9b83",
+        "allowBuild": "dsh-theme-machine@https://codeload.github.com/yuqisun/dsh-theme-machine/tar.gz/58766c63e3ae487b84b3902b2467d85f9c8f9b83"
       },
       "compatibility": {
         "dsh": "unverified",
@@ -6738,10 +6755,10 @@
       },
       "featuredRank": 128,
       "starsSnapshot": 0,
-      "releaseUpdatedAt": "2026-08-16T13:58:28.052Z",
-      "metadataUpdatedAt": "2026-08-16T14:27:46.287Z",
+      "releaseUpdatedAt": "2026-08-16T15:07:00.616Z",
+      "metadataUpdatedAt": "2026-08-16T15:07:00.616Z",
       "starsUpdatedAt": "2026-08-16T13:58:28.052Z",
-      "updatedAt": "2026-08-16T14:27:46.287Z"
+      "updatedAt": "2026-08-16T15:07:00.616Z"
     },
     {
       "id": "zjuzhiyucai.dsh-ivory",
@@ -6750,7 +6767,7 @@
         "en": "dsh-ivory"
       },
       "author": "ZJUZhiyuCai",
-      "description": "An unofficial Claude-inspired light/dark theme for DeepSeek Harness with responsive layout, safe Markdown preview, and zero telemetry.",
+      "description": "Calm, auditable Claude-inspired theme for DeepSeek Harness — light/dark/mobile, safe Markdown preview, zero telemetry, zero runtime dependencies.",
       "repo": "https://github.com/ZJUZhiyuCai/dsh-ivory",
       "package": "dsh-ivory",
       "rowId": "dsh-ivory",
@@ -6792,9 +6809,9 @@
       "featuredRank": 129,
       "starsSnapshot": 0,
       "releaseUpdatedAt": "2026-08-16T13:58:44.799Z",
-      "metadataUpdatedAt": "2026-08-16T14:28:00.038Z",
+      "metadataUpdatedAt": "2026-08-16T15:07:05.326Z",
       "starsUpdatedAt": "2026-08-16T13:58:44.799Z",
-      "updatedAt": "2026-08-16T14:28:00.038Z"
+      "updatedAt": "2026-08-16T15:07:05.326Z"
     },
     {
       "id": "jieice.dsh-wallpaper-rotator-enhanced",
@@ -6950,6 +6967,706 @@
       "metadataUpdatedAt": "2026-08-16T14:27:39.357Z",
       "starsUpdatedAt": "2026-08-16T14:27:39.357Z",
       "updatedAt": "2026-08-16T14:27:39.357Z"
+    },
+    {
+      "id": "gameswu.dsh-plugin-background",
+      "name": {
+        "zh": "dsh-plugin-background",
+        "en": "dsh-plugin-background"
+      },
+      "author": "gameswu",
+      "description": "dsh壁纸插件",
+      "repo": "https://github.com/gameswu/dsh-plugin-background",
+      "package": "dsh-plugin-background",
+      "rowId": "ui-background",
+      "category": "theme",
+      "tags": [
+        "wallpaper",
+        "glass"
+      ],
+      "modes": [
+        "light",
+        "dark"
+      ],
+      "install": {
+        "target": "github:gameswu/dsh-plugin-background#f8a45fedf33c6481e931629d81073699190530f6",
+        "version": "0.2.0",
+        "commit": "f8a45fedf33c6481e931629d81073699190530f6",
+        "allowBuild": "dsh-plugin-background@https://codeload.github.com/gameswu/dsh-plugin-background/tar.gz/f8a45fedf33c6481e931629d81073699190530f6"
+      },
+      "compatibility": {
+        "dsh": "unverified",
+        "platform": [
+          "web"
+        ]
+      },
+      "screenshots": [
+        "https://opengraph.githubassets.com/f8a45fedf33c6481e931629d81073699190530f6/gameswu/dsh-plugin-background"
+      ],
+      "review": {
+        "compatibility": "unverified",
+        "preview": "repository-card",
+        "installation": "verified"
+      },
+      "license": {
+        "code": "MIT",
+        "commercialUse": true
+      },
+      "featuredRank": 133,
+      "starsSnapshot": 10,
+      "releaseUpdatedAt": "2026-08-16T15:02:54.025Z",
+      "metadataUpdatedAt": "2026-08-16T15:02:54.025Z",
+      "starsUpdatedAt": "2026-08-16T15:02:54.025Z",
+      "updatedAt": "2026-08-16T15:02:54.025Z"
+    },
+    {
+      "id": "brucewu1126.dsh-web-background",
+      "name": {
+        "zh": "dsh-web-background",
+        "en": "dsh-web-background"
+      },
+      "author": "BruceWu1126",
+      "description": "DeepSeek Harness Web UI background customization plugin",
+      "repo": "https://github.com/BruceWu1126/dsh-web-background",
+      "package": "dsh-web-background",
+      "rowId": "web-background",
+      "category": "theme",
+      "tags": [
+        "wallpaper",
+        "motion",
+        "token-theme"
+      ],
+      "modes": [
+        "light",
+        "dark"
+      ],
+      "install": {
+        "target": "github:BruceWu1126/dsh-web-background#e6e14b6770d00967d5b65ee3b81288323d3e2867",
+        "version": "0.1.0",
+        "commit": "e6e14b6770d00967d5b65ee3b81288323d3e2867"
+      },
+      "compatibility": {
+        "dsh": "0.1.0-rc.6",
+        "platform": [
+          "web"
+        ]
+      },
+      "screenshots": [
+        "https://opengraph.githubassets.com/e6e14b6770d00967d5b65ee3b81288323d3e2867/BruceWu1126/dsh-web-background"
+      ],
+      "review": {
+        "compatibility": "verified",
+        "preview": "repository-card",
+        "installation": "verified"
+      },
+      "license": {
+        "code": "MIT",
+        "commercialUse": true
+      },
+      "featuredRank": 134,
+      "starsSnapshot": 2,
+      "releaseUpdatedAt": "2026-08-16T15:03:54.184Z",
+      "metadataUpdatedAt": "2026-08-16T15:03:54.184Z",
+      "starsUpdatedAt": "2026-08-16T15:03:54.184Z",
+      "updatedAt": "2026-08-16T15:03:54.184Z"
+    },
+    {
+      "id": "kaotusi.dsh-task-notify",
+      "name": {
+        "zh": "dsh-task-notify",
+        "en": "dsh-task-notify"
+      },
+      "author": "kaotusi",
+      "description": "DeepSeek Harness (DSH) system-level task notifications: approval required / awaiting reply / task finished (background job, subagent, workflow) → OS notification center with chimes + in-app bell panel, toasts, clear button.",
+      "repo": "https://github.com/kaotusi/dsh-task-notify",
+      "package": "@deepseek-ai/dsh-task-notify",
+      "rowId": "task-notify",
+      "category": "theme",
+      "tags": [
+        "pastel",
+        "motion"
+      ],
+      "modes": [
+        "light",
+        "dark"
+      ],
+      "install": {
+        "target": "github:kaotusi/dsh-task-notify#d4e6029ba72d7fc0752e52b373d1325f3f9a8842",
+        "version": "0.2.0",
+        "commit": "d4e6029ba72d7fc0752e52b373d1325f3f9a8842"
+      },
+      "compatibility": {
+        "dsh": "^0.1.0-rc.6",
+        "platform": [
+          "web"
+        ]
+      },
+      "screenshots": [
+        "https://opengraph.githubassets.com/d4e6029ba72d7fc0752e52b373d1325f3f9a8842/kaotusi/dsh-task-notify"
+      ],
+      "review": {
+        "compatibility": "verified",
+        "preview": "repository-card",
+        "installation": "verified"
+      },
+      "license": {
+        "code": "MIT",
+        "commercialUse": true
+      },
+      "featuredRank": 135,
+      "starsSnapshot": 2,
+      "releaseUpdatedAt": "2026-08-16T15:04:08.224Z",
+      "metadataUpdatedAt": "2026-08-16T15:04:08.224Z",
+      "starsUpdatedAt": "2026-08-16T15:04:08.224Z",
+      "updatedAt": "2026-08-16T15:04:08.224Z"
+    },
+    {
+      "id": "yan-zero.dsh-remote-ssh",
+      "name": {
+        "zh": "dsh-remote-ssh",
+        "en": "dsh-remote-ssh"
+      },
+      "author": "Yan-Zero",
+      "description": "Use SSH hosts as transparent workspaces in DeepSeek Harness.",
+      "repo": "https://github.com/Yan-Zero/dsh-remote-ssh",
+      "package": "dsh-remote-ssh",
+      "rowId": "remote-ssh-client-host",
+      "category": "theme",
+      "tags": [
+        "retro"
+      ],
+      "modes": [
+        "light",
+        "dark"
+      ],
+      "install": {
+        "target": "github:Yan-Zero/dsh-remote-ssh#21d727cbe24fbae283196e5101adb3de2bdd9157",
+        "version": "0.2.4",
+        "commit": "21d727cbe24fbae283196e5101adb3de2bdd9157"
+      },
+      "compatibility": {
+        "dsh": "0.1.0-rc.6",
+        "platform": [
+          "web"
+        ]
+      },
+      "screenshots": [
+        "https://opengraph.githubassets.com/21d727cbe24fbae283196e5101adb3de2bdd9157/Yan-Zero/dsh-remote-ssh"
+      ],
+      "review": {
+        "compatibility": "verified",
+        "preview": "repository-card",
+        "installation": "verified"
+      },
+      "license": {
+        "code": "Apache-2.0",
+        "commercialUse": true
+      },
+      "featuredRank": 136,
+      "starsSnapshot": 2,
+      "releaseUpdatedAt": "2026-08-16T15:04:24.919Z",
+      "metadataUpdatedAt": "2026-08-16T15:04:24.919Z",
+      "starsUpdatedAt": "2026-08-16T15:04:24.919Z",
+      "updatedAt": "2026-08-16T15:04:24.919Z"
+    },
+    {
+      "id": "ayingqaq.dsh-web-launcher",
+      "name": {
+        "zh": "dsh-web-launcher",
+        "en": "dsh-web-launcher"
+      },
+      "author": "ayingQAQ",
+      "description": "Windows 上的 DeepSeek Harness Web 一键启动器｜One-click launcher with background restart and browser refresh.",
+      "repo": "https://github.com/ayingQAQ/dsh-web-launcher",
+      "package": "dsh-web-launcher",
+      "rowId": "dsh-web-launcher",
+      "category": "theme",
+      "tags": [
+        "appearance"
+      ],
+      "modes": [
+        "light",
+        "dark"
+      ],
+      "install": {
+        "target": "github:ayingQAQ/dsh-web-launcher#5b5b18710eeb9c3cfa16cfad23b8115bf84a7f17",
+        "version": "0.2.1",
+        "commit": "5b5b18710eeb9c3cfa16cfad23b8115bf84a7f17"
+      },
+      "compatibility": {
+        "dsh": "unverified",
+        "platform": [
+          "web"
+        ]
+      },
+      "screenshots": [
+        "https://opengraph.githubassets.com/5b5b18710eeb9c3cfa16cfad23b8115bf84a7f17/ayingQAQ/dsh-web-launcher"
+      ],
+      "review": {
+        "compatibility": "unverified",
+        "preview": "repository-card",
+        "installation": "verified"
+      },
+      "license": {
+        "code": "MIT",
+        "commercialUse": true
+      },
+      "featuredRank": 137,
+      "starsSnapshot": 1,
+      "releaseUpdatedAt": "2026-08-16T15:04:40.551Z",
+      "metadataUpdatedAt": "2026-08-16T15:04:40.551Z",
+      "starsUpdatedAt": "2026-08-16T15:04:40.551Z",
+      "updatedAt": "2026-08-16T15:04:40.551Z"
+    },
+    {
+      "id": "kingofsoysauce.dsh-skin-market",
+      "name": {
+        "zh": "dsh-skin-market",
+        "en": "dsh-skin-market"
+      },
+      "author": "kingOfSoySauce",
+      "description": "dsh-skin-market",
+      "repo": "https://github.com/kingOfSoySauce/dsh-skin-market",
+      "package": "dsh-skin-market",
+      "rowId": "dsh-skin-market",
+      "category": "theme",
+      "tags": [
+        "appearance"
+      ],
+      "modes": [
+        "light",
+        "dark"
+      ],
+      "install": {
+        "target": "github:kingOfSoySauce/dsh-skin-market#e55c9931755214c21143f34ae56d6842c3fb9753",
+        "version": "0.1.9",
+        "commit": "e55c9931755214c21143f34ae56d6842c3fb9753"
+      },
+      "compatibility": {
+        "dsh": "^0.1.0-rc.6",
+        "platform": [
+          "web"
+        ]
+      },
+      "screenshots": [
+        "https://raw.githubusercontent.com/kingOfSoySauce/dsh-skin-market/e55c9931755214c21143f34ae56d6842c3fb9753/docs/assets/skin-market-liang.png",
+        "https://raw.githubusercontent.com/kingOfSoySauce/dsh-skin-market/e55c9931755214c21143f34ae56d6842c3fb9753/docs/assets/skin-market-deep-whale.png"
+      ],
+      "review": {
+        "compatibility": "verified",
+        "preview": "verified",
+        "installation": "verified"
+      },
+      "license": {
+        "code": "MIT",
+        "commercialUse": true
+      },
+      "featuredRank": 138,
+      "starsSnapshot": 1,
+      "releaseUpdatedAt": "2026-08-16T15:04:54.813Z",
+      "metadataUpdatedAt": "2026-08-16T15:04:54.813Z",
+      "starsUpdatedAt": "2026-08-16T15:04:54.813Z",
+      "updatedAt": "2026-08-16T15:04:54.813Z"
+    },
+    {
+      "id": "lx963.dsh-webui-background",
+      "name": {
+        "zh": "dsh-webui-background",
+        "en": "dsh-webui-background"
+      },
+      "author": "lx963",
+      "description": "dsh-webui-background",
+      "repo": "https://github.com/lx963/dsh-webui-background",
+      "package": "dsh-webui-background",
+      "rowId": "webui-background",
+      "category": "theme",
+      "tags": [
+        "wallpaper"
+      ],
+      "modes": [
+        "light",
+        "dark"
+      ],
+      "install": {
+        "target": "github:lx963/dsh-webui-background#5c5db9a8d2745d7d25e0134de6be0b18c5652644",
+        "version": "0.1.0-rc.3",
+        "commit": "5c5db9a8d2745d7d25e0134de6be0b18c5652644"
+      },
+      "compatibility": {
+        "dsh": ">=0.1.0-rc.5 <0.2.0",
+        "platform": [
+          "web"
+        ]
+      },
+      "screenshots": [
+        "https://opengraph.githubassets.com/5c5db9a8d2745d7d25e0134de6be0b18c5652644/lx963/dsh-webui-background"
+      ],
+      "review": {
+        "compatibility": "verified",
+        "preview": "repository-card",
+        "installation": "verified"
+      },
+      "license": {
+        "code": "MIT",
+        "commercialUse": true
+      },
+      "featuredRank": 139,
+      "starsSnapshot": 1,
+      "releaseUpdatedAt": "2026-08-16T15:05:04.679Z",
+      "metadataUpdatedAt": "2026-08-16T15:05:04.679Z",
+      "starsUpdatedAt": "2026-08-16T15:05:04.679Z",
+      "updatedAt": "2026-08-16T15:05:04.679Z"
+    },
+    {
+      "id": "aokamoaki.dsh-notify",
+      "name": {
+        "zh": "dsh-notify",
+        "en": "dsh-notify"
+      },
+      "author": "aokamoaki",
+      "description": "Conversation-completion notifications for DeepSeek Harness: Windows toast + sound when a turn finishes, errors, a goal completes, or the agent asks/needs approval - foreground-suppressed, background-only.",
+      "repo": "https://github.com/aokamoaki/dsh-notify",
+      "package": "dsh-notify",
+      "rowId": "dsh-notify",
+      "category": "theme",
+      "tags": [
+        "appearance"
+      ],
+      "modes": [
+        "light",
+        "dark"
+      ],
+      "install": {
+        "target": "github:aokamoaki/dsh-notify#87272389a90141649c91d2d6da0b3d241974fa59",
+        "version": "1.0.0",
+        "commit": "87272389a90141649c91d2d6da0b3d241974fa59"
+      },
+      "compatibility": {
+        "dsh": "unverified",
+        "platform": [
+          "web"
+        ]
+      },
+      "screenshots": [
+        "https://opengraph.githubassets.com/87272389a90141649c91d2d6da0b3d241974fa59/aokamoaki/dsh-notify"
+      ],
+      "review": {
+        "compatibility": "unverified",
+        "preview": "repository-card",
+        "installation": "verified"
+      },
+      "license": {
+        "code": "MIT",
+        "commercialUse": true
+      },
+      "featuredRank": 140,
+      "starsSnapshot": 0,
+      "releaseUpdatedAt": "2026-08-16T15:05:41.163Z",
+      "metadataUpdatedAt": "2026-08-16T15:05:41.163Z",
+      "starsUpdatedAt": "2026-08-16T15:05:41.163Z",
+      "updatedAt": "2026-08-16T15:05:41.163Z"
+    },
+    {
+      "id": "charrywhite.dsh-sticky-notes",
+      "name": {
+        "zh": "dsh-sticky-notes",
+        "en": "dsh-sticky-notes"
+      },
+      "author": "charrywhite",
+      "description": "Sticky notes for DeepSeek Harness: draggable notes with text & image support, 9 skins, and AI-powered read/write. DeepSeek Harness 便签插件:可拖拽,支持文字与图片、9 款皮肤,AI 可读写。",
+      "repo": "https://github.com/charrywhite/dsh-sticky-notes",
+      "package": "dsh-sticky-notes",
+      "rowId": "dsh-sticky-notes",
+      "category": "theme",
+      "tags": [
+        "appearance"
+      ],
+      "modes": [
+        "light",
+        "dark"
+      ],
+      "install": {
+        "target": "github:charrywhite/dsh-sticky-notes#c9f1764a56bd6df4a4e4e0c50c053b3f938115cf",
+        "version": "0.1.0",
+        "commit": "c9f1764a56bd6df4a4e4e0c50c053b3f938115cf"
+      },
+      "compatibility": {
+        "dsh": "unverified",
+        "platform": [
+          "web"
+        ]
+      },
+      "screenshots": [
+        "https://raw.githubusercontent.com/charrywhite/dsh-sticky-notes/c9f1764a56bd6df4a4e4e0c50c053b3f938115cf/headline.png",
+        "https://raw.githubusercontent.com/charrywhite/dsh-sticky-notes/c9f1764a56bd6df4a4e4e0c50c053b3f938115cf/skins.png"
+      ],
+      "review": {
+        "compatibility": "unverified",
+        "preview": "verified",
+        "installation": "verified"
+      },
+      "license": {
+        "code": "MIT",
+        "commercialUse": true
+      },
+      "featuredRank": 141,
+      "starsSnapshot": 0,
+      "releaseUpdatedAt": "2026-08-16T15:05:44.882Z",
+      "metadataUpdatedAt": "2026-08-16T15:05:44.882Z",
+      "starsUpdatedAt": "2026-08-16T15:05:44.882Z",
+      "updatedAt": "2026-08-16T15:05:44.882Z"
+    },
+    {
+      "id": "hto404.dsh-chime",
+      "name": {
+        "zh": "dsh-chime",
+        "en": "dsh-chime"
+      },
+      "author": "HtO404",
+      "description": "Task-completion notification chime for the DSH web GUI: beeps when an agent turn finishes, even in background tabs. 10 preset sounds + custom import + volume.",
+      "repo": "https://github.com/HtO404/dsh-chime",
+      "package": "@hto404/dsh-chime",
+      "rowId": "chime",
+      "category": "theme",
+      "tags": [
+        "light-dark"
+      ],
+      "modes": [
+        "light"
+      ],
+      "install": {
+        "target": "github:HtO404/dsh-chime#19ee4c95a86ad642a3e57c78b7685cba9d9ee52b",
+        "version": "0.1.2",
+        "commit": "19ee4c95a86ad642a3e57c78b7685cba9d9ee52b"
+      },
+      "compatibility": {
+        "dsh": "unverified",
+        "platform": [
+          "web"
+        ]
+      },
+      "screenshots": [
+        "https://raw.githubusercontent.com/HtO404/dsh-chime/19ee4c95a86ad642a3e57c78b7685cba9d9ee52b/docs/demo.gif"
+      ],
+      "review": {
+        "compatibility": "unverified",
+        "preview": "verified",
+        "installation": "verified"
+      },
+      "license": {
+        "code": "Apache-2.0",
+        "commercialUse": true
+      },
+      "featuredRank": 142,
+      "starsSnapshot": 0,
+      "releaseUpdatedAt": "2026-08-16T15:06:03.357Z",
+      "metadataUpdatedAt": "2026-08-16T15:06:03.357Z",
+      "starsUpdatedAt": "2026-08-16T15:06:03.357Z",
+      "updatedAt": "2026-08-16T15:06:03.357Z"
+    },
+    {
+      "id": "omdsh-plugins.omdsh-sidechat",
+      "name": {
+        "zh": "omdsh-sidechat",
+        "en": "omdsh-sidechat"
+      },
+      "author": "omdsh-plugins",
+      "description": "Summon a conversation of its own anywhere in the DeepSeek Harness web GUI: a side panel anchored to whatever you were looking at, asking in its own session so the conversation you are running is untouched",
+      "repo": "https://github.com/omdsh-plugins/omdsh-sidechat",
+      "package": "@omdsh-plugins/omdsh-sidechat",
+      "rowId": "omdsh-sidechat",
+      "category": "theme",
+      "tags": [
+        "appearance"
+      ],
+      "modes": [
+        "light",
+        "dark"
+      ],
+      "install": {
+        "target": "github:omdsh-plugins/omdsh-sidechat#5383623fef51628e56efb8a48bf05d1f5baf7ba0",
+        "version": "0.1.1",
+        "commit": "5383623fef51628e56efb8a48bf05d1f5baf7ba0",
+        "allowBuild": "@omdsh-plugins/omdsh-sidechat@https://codeload.github.com/omdsh-plugins/omdsh-sidechat/tar.gz/5383623fef51628e56efb8a48bf05d1f5baf7ba0"
+      },
+      "compatibility": {
+        "dsh": ">=0.1.0-rc.6",
+        "platform": [
+          "web"
+        ]
+      },
+      "screenshots": [
+        "https://opengraph.githubassets.com/5383623fef51628e56efb8a48bf05d1f5baf7ba0/omdsh-plugins/omdsh-sidechat"
+      ],
+      "review": {
+        "compatibility": "verified",
+        "preview": "repository-card",
+        "installation": "verified"
+      },
+      "license": {
+        "code": "MIT",
+        "commercialUse": true
+      },
+      "featuredRank": 143,
+      "starsSnapshot": 0,
+      "releaseUpdatedAt": "2026-08-16T15:06:27.301Z",
+      "metadataUpdatedAt": "2026-08-16T15:06:27.301Z",
+      "starsUpdatedAt": "2026-08-16T15:06:27.301Z",
+      "updatedAt": "2026-08-16T15:06:27.301Z"
+    },
+    {
+      "id": "sipengxie2024.dsh-memory-hermes",
+      "name": {
+        "zh": "dsh-memory-hermes",
+        "en": "dsh-memory-hermes"
+      },
+      "author": "SipengXie2024",
+      "description": "Hermes-style bounded memory + self-curating skill library for DeepSeek Harness (dsh): two-file curated memory, background review loop, LLM library curator. Out-of-tree Cordis plugin.",
+      "repo": "https://github.com/SipengXie2024/dsh-memory-hermes",
+      "package": "dsh-memory-hermes",
+      "rowId": "memory-hermes",
+      "category": "theme",
+      "tags": [
+        "token-theme"
+      ],
+      "modes": [
+        "light",
+        "dark"
+      ],
+      "install": {
+        "target": "github:SipengXie2024/dsh-memory-hermes#c82f351d7b1497c3c9434c5f1a15bee67eae3735",
+        "version": "0.4.2",
+        "commit": "c82f351d7b1497c3c9434c5f1a15bee67eae3735"
+      },
+      "compatibility": {
+        "dsh": "0.1.0-rc.6",
+        "platform": [
+          "web"
+        ]
+      },
+      "screenshots": [
+        "https://opengraph.githubassets.com/c82f351d7b1497c3c9434c5f1a15bee67eae3735/SipengXie2024/dsh-memory-hermes"
+      ],
+      "review": {
+        "compatibility": "verified",
+        "preview": "repository-card",
+        "installation": "verified"
+      },
+      "license": {
+        "code": "MIT",
+        "commercialUse": true
+      },
+      "featuredRank": 144,
+      "starsSnapshot": 0,
+      "releaseUpdatedAt": "2026-08-16T15:06:40.577Z",
+      "metadataUpdatedAt": "2026-08-16T15:06:40.577Z",
+      "starsUpdatedAt": "2026-08-16T15:06:40.577Z",
+      "updatedAt": "2026-08-16T15:06:40.577Z"
+    },
+    {
+      "id": "skym31.dsh-freebackground",
+      "name": {
+        "zh": "dsh-FreeBackground",
+        "en": "dsh-FreeBackground"
+      },
+      "author": "SkyM31",
+      "description": "dsh-FreeBackground",
+      "repo": "https://github.com/SkyM31/dsh-FreeBackground",
+      "package": "dsh-free-background",
+      "rowId": "free-background",
+      "category": "theme",
+      "tags": [
+        "wallpaper",
+        "glass",
+        "token-theme",
+        "light-dark"
+      ],
+      "modes": [
+        "light",
+        "dark"
+      ],
+      "install": {
+        "target": "github:SkyM31/dsh-FreeBackground#b3e946d31f87cf25b65355b2c1034bb272100ade",
+        "version": "0.1.0",
+        "commit": "b3e946d31f87cf25b65355b2c1034bb272100ade"
+      },
+      "compatibility": {
+        "dsh": "unverified",
+        "platform": [
+          "web"
+        ]
+      },
+      "screenshots": [
+        "https://opengraph.githubassets.com/b3e946d31f87cf25b65355b2c1034bb272100ade/SkyM31/dsh-FreeBackground"
+      ],
+      "review": {
+        "compatibility": "unverified",
+        "preview": "repository-card",
+        "installation": "verified"
+      },
+      "license": {
+        "code": "MIT",
+        "commercialUse": true
+      },
+      "featuredRank": 145,
+      "starsSnapshot": 0,
+      "releaseUpdatedAt": "2026-08-16T15:06:43.175Z",
+      "metadataUpdatedAt": "2026-08-16T15:06:43.175Z",
+      "starsUpdatedAt": "2026-08-16T15:06:43.175Z",
+      "updatedAt": "2026-08-16T15:06:43.175Z"
+    },
+    {
+      "id": "sodazilla-zzz.dsh-liquid-glass-balance-card",
+      "name": {
+        "zh": "dsh-liquid-glass-balance-card",
+        "en": "dsh-liquid-glass-balance-card"
+      },
+      "author": "SoDaZilla-zzz",
+      "description": "DSH 网页右上角可拖动 3D 液态玻璃余额卡片：显示 DeepSeek API 余额、累计消费与 Token 统计（今天/昨天/近7天/近30天/全部），玻璃参数/3D 厚度/颜色均可调，内置官方充值入口。",
+      "repo": "https://github.com/SoDaZilla-zzz/dsh-liquid-glass-balance-card",
+      "package": "dsh-liquid-glass-balance-card",
+      "rowId": "liquid-glass-balance-card",
+      "category": "theme",
+      "tags": [
+        "wallpaper",
+        "glass",
+        "token-theme",
+        "light-dark"
+      ],
+      "modes": [
+        "light",
+        "dark"
+      ],
+      "install": {
+        "target": "github:SoDaZilla-zzz/dsh-liquid-glass-balance-card#f3779d53a7c7ba18f4a800d2c219817d3dc5ed3e",
+        "version": "0.1.0",
+        "commit": "f3779d53a7c7ba18f4a800d2c219817d3dc5ed3e"
+      },
+      "compatibility": {
+        "dsh": "unverified",
+        "platform": [
+          "web"
+        ]
+      },
+      "screenshots": [
+        "https://raw.githubusercontent.com/SoDaZilla-zzz/dsh-liquid-glass-balance-card/f3779d53a7c7ba18f4a800d2c219817d3dc5ed3e/docs/cover.jpg",
+        "https://raw.githubusercontent.com/SoDaZilla-zzz/dsh-liquid-glass-balance-card/f3779d53a7c7ba18f4a800d2c219817d3dc5ed3e/docs/demo.gif"
+      ],
+      "review": {
+        "compatibility": "unverified",
+        "preview": "verified",
+        "installation": "verified"
+      },
+      "license": {
+        "code": "MIT",
+        "commercialUse": true
+      },
+      "featuredRank": 146,
+      "starsSnapshot": 0,
+      "releaseUpdatedAt": "2026-08-16T15:06:44.372Z",
+      "metadataUpdatedAt": "2026-08-16T15:06:44.372Z",
+      "starsUpdatedAt": "2026-08-16T15:06:44.372Z",
+      "updatedAt": "2026-08-16T15:06:44.372Z"
     }
   ]
 }

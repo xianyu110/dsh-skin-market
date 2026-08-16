@@ -1,0 +1,39 @@
+id: kingofsoysauce.dsh-skin-market
+name:
+  zh: dsh-skin-market
+  en: dsh-skin-market
+author: kingOfSoySauce
+description: dsh-skin-market
+repo: https://github.com/kingOfSoySauce/dsh-skin-market
+package: dsh-skin-market
+rowId: dsh-skin-market
+category: theme
+tags:
+  - appearance
+modes:
+  - light
+  - dark
+install:
+  target: github:kingOfSoySauce/dsh-skin-market#e55c9931755214c21143f34ae56d6842c3fb9753
+  version: 0.1.9
+  commit: e55c9931755214c21143f34ae56d6842c3fb9753
+compatibility:
+  dsh: ^0.1.0-rc.6
+  platform:
+    - web
+screenshots:
+  - https://raw.githubusercontent.com/kingOfSoySauce/dsh-skin-market/e55c9931755214c21143f34ae56d6842c3fb9753/docs/assets/skin-market-liang.png
+  - https://raw.githubusercontent.com/kingOfSoySauce/dsh-skin-market/e55c9931755214c21143f34ae56d6842c3fb9753/docs/assets/skin-market-deep-whale.png
+review:
+  compatibility: verified
+  preview: verified
+  installation: verified
+license:
+  code: MIT
+  commercialUse: true
+featuredRank: 138
+starsSnapshot: 1
+releaseUpdatedAt: 2026-08-16T15:04:54.813Z
+metadataUpdatedAt: 2026-08-16T15:04:54.813Z
+starsUpdatedAt: 2026-08-16T15:04:54.813Z
+updatedAt: 2026-08-16T15:04:54.813Z

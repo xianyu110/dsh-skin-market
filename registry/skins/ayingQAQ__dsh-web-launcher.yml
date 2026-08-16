@@ -1,0 +1,38 @@
+id: ayingqaq.dsh-web-launcher
+name:
+  zh: dsh-web-launcher
+  en: dsh-web-launcher
+author: ayingQAQ
+description: Windows 上的 DeepSeek Harness Web 一键启动器｜One-click launcher with background restart and browser refresh.
+repo: https://github.com/ayingQAQ/dsh-web-launcher
+package: dsh-web-launcher
+rowId: dsh-web-launcher
+category: theme
+tags:
+  - appearance
+modes:
+  - light
+  - dark
+install:
+  target: github:ayingQAQ/dsh-web-launcher#5b5b18710eeb9c3cfa16cfad23b8115bf84a7f17
+  version: 0.2.1
+  commit: 5b5b18710eeb9c3cfa16cfad23b8115bf84a7f17
+compatibility:
+  dsh: unverified
+  platform:
+    - web
+screenshots:
+  - https://opengraph.githubassets.com/5b5b18710eeb9c3cfa16cfad23b8115bf84a7f17/ayingQAQ/dsh-web-launcher
+review:
+  compatibility: unverified
+  preview: repository-card
+  installation: verified
+license:
+  code: MIT
+  commercialUse: true
+featuredRank: 137
+starsSnapshot: 1
+releaseUpdatedAt: 2026-08-16T15:04:40.551Z
+metadataUpdatedAt: 2026-08-16T15:04:40.551Z
+starsUpdatedAt: 2026-08-16T15:04:40.551Z
+updatedAt: 2026-08-16T15:04:40.551Z

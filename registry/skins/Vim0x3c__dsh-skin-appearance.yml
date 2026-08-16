@@ -20,6 +20,7 @@ install:
   target: github:Vim0x3c/dsh-skin-appearance#be7b05776c1dee9e3d387e122c42005edf400837
   version: 0.1.0
   commit: be7b05776c1dee9e3d387e122c42005edf400837
+  allowBuild: dsh-skin-appearance@https://codeload.github.com/Vim0x3c/dsh-skin-appearance/tar.gz/be7b05776c1dee9e3d387e122c42005edf400837
 compatibility:
   dsh: ^0.1.0-rc.5
   platform:
@@ -40,7 +41,7 @@ license:
   commercialUse: true
 featuredRank: 45
 starsSnapshot: 5
-releaseUpdatedAt: 2026-08-16T13:48:16.554Z
+releaseUpdatedAt: 2026-08-16T15:03:14.944Z
 metadataUpdatedAt: 2026-08-16T13:48:16.554Z
 starsUpdatedAt: 2026-08-16T13:48:16.554Z
-updatedAt: 2026-08-16T13:48:16.554Z
+updatedAt: 2026-08-16T15:03:14.944Z

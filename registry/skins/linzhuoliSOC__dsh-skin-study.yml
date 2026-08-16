@@ -3,7 +3,7 @@ name:
   zh: dsh-skin-study
   en: dsh-skin-study
 author: linzhuoliSOC
-description: DeepSeek Harness 3D 书房。Cozy Study skin for DSH web.
+description: deepseek harness 3D 书房皮肤
 repo: https://github.com/linzhuoliSOC/dsh-skin-study
 package: dsh-skin-study
 rowId: ui-skin-study
@@ -32,6 +32,6 @@ license:
 featuredRank: 113
 starsSnapshot: 0
 releaseUpdatedAt: 2026-08-16T13:56:41.045Z
-metadataUpdatedAt: 2026-08-16T14:25:51.550Z
+metadataUpdatedAt: 2026-08-16T15:06:20.009Z
 starsUpdatedAt: 2026-08-16T13:56:41.045Z
-updatedAt: 2026-08-16T14:25:51.550Z
+updatedAt: 2026-08-16T15:06:20.009Z

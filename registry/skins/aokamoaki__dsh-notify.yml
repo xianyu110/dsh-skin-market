@@ -1,0 +1,38 @@
+id: aokamoaki.dsh-notify
+name:
+  zh: dsh-notify
+  en: dsh-notify
+author: aokamoaki
+description: "Conversation-completion notifications for DeepSeek Harness: Windows toast + sound when a turn finishes, errors, a goal completes, or the agent asks/needs approval - foreground-suppressed, background-only."
+repo: https://github.com/aokamoaki/dsh-notify
+package: dsh-notify
+rowId: dsh-notify
+category: theme
+tags:
+  - appearance
+modes:
+  - light
+  - dark
+install:
+  target: github:aokamoaki/dsh-notify#87272389a90141649c91d2d6da0b3d241974fa59
+  version: 1.0.0
+  commit: 87272389a90141649c91d2d6da0b3d241974fa59
+compatibility:
+  dsh: unverified
+  platform:
+    - web
+screenshots:
+  - https://opengraph.githubassets.com/87272389a90141649c91d2d6da0b3d241974fa59/aokamoaki/dsh-notify
+review:
+  compatibility: unverified
+  preview: repository-card
+  installation: verified
+license:
+  code: MIT
+  commercialUse: true
+featuredRank: 140
+starsSnapshot: 0
+releaseUpdatedAt: 2026-08-16T15:05:41.163Z
+metadataUpdatedAt: 2026-08-16T15:05:41.163Z
+starsUpdatedAt: 2026-08-16T15:05:41.163Z
+updatedAt: 2026-08-16T15:05:41.163Z

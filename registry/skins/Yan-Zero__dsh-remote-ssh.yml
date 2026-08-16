@@ -1,0 +1,38 @@
+id: yan-zero.dsh-remote-ssh
+name:
+  zh: dsh-remote-ssh
+  en: dsh-remote-ssh
+author: Yan-Zero
+description: Use SSH hosts as transparent workspaces in DeepSeek Harness.
+repo: https://github.com/Yan-Zero/dsh-remote-ssh
+package: dsh-remote-ssh
+rowId: remote-ssh-client-host
+category: theme
+tags:
+  - retro
+modes:
+  - light
+  - dark
+install:
+  target: github:Yan-Zero/dsh-remote-ssh#21d727cbe24fbae283196e5101adb3de2bdd9157
+  version: 0.2.4
+  commit: 21d727cbe24fbae283196e5101adb3de2bdd9157
+compatibility:
+  dsh: 0.1.0-rc.6
+  platform:
+    - web
+screenshots:
+  - https://opengraph.githubassets.com/21d727cbe24fbae283196e5101adb3de2bdd9157/Yan-Zero/dsh-remote-ssh
+review:
+  compatibility: verified
+  preview: repository-card
+  installation: verified
+license:
+  code: Apache-2.0
+  commercialUse: true
+featuredRank: 136
+starsSnapshot: 2
+releaseUpdatedAt: 2026-08-16T15:04:24.919Z
+metadataUpdatedAt: 2026-08-16T15:04:24.919Z
+starsUpdatedAt: 2026-08-16T15:04:24.919Z
+updatedAt: 2026-08-16T15:04:24.919Z

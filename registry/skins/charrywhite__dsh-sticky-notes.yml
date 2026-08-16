@@ -1,0 +1,39 @@
+id: charrywhite.dsh-sticky-notes
+name:
+  zh: dsh-sticky-notes
+  en: dsh-sticky-notes
+author: charrywhite
+description: "Sticky notes for DeepSeek Harness: draggable notes with text & image support, 9 skins, and AI-powered read/write. DeepSeek Harness 便签插件:可拖拽,支持文字与图片、9 款皮肤,AI 可读写。"
+repo: https://github.com/charrywhite/dsh-sticky-notes
+package: dsh-sticky-notes
+rowId: dsh-sticky-notes
+category: theme
+tags:
+  - appearance
+modes:
+  - light
+  - dark
+install:
+  target: github:charrywhite/dsh-sticky-notes#c9f1764a56bd6df4a4e4e0c50c053b3f938115cf
+  version: 0.1.0
+  commit: c9f1764a56bd6df4a4e4e0c50c053b3f938115cf
+compatibility:
+  dsh: unverified
+  platform:
+    - web
+screenshots:
+  - https://raw.githubusercontent.com/charrywhite/dsh-sticky-notes/c9f1764a56bd6df4a4e4e0c50c053b3f938115cf/headline.png
+  - https://raw.githubusercontent.com/charrywhite/dsh-sticky-notes/c9f1764a56bd6df4a4e4e0c50c053b3f938115cf/skins.png
+review:
+  compatibility: unverified
+  preview: verified
+  installation: verified
+license:
+  code: MIT
+  commercialUse: true
+featuredRank: 141
+starsSnapshot: 0
+releaseUpdatedAt: 2026-08-16T15:05:44.882Z
+metadataUpdatedAt: 2026-08-16T15:05:44.882Z
+starsUpdatedAt: 2026-08-16T15:05:44.882Z
+updatedAt: 2026-08-16T15:05:44.882Z

@@ -1,0 +1,38 @@
+id: sipengxie2024.dsh-memory-hermes
+name:
+  zh: dsh-memory-hermes
+  en: dsh-memory-hermes
+author: SipengXie2024
+description: "Hermes-style bounded memory + self-curating skill library for DeepSeek Harness (dsh): two-file curated memory, background review loop, LLM library curator. Out-of-tree Cordis plugin."
+repo: https://github.com/SipengXie2024/dsh-memory-hermes
+package: dsh-memory-hermes
+rowId: memory-hermes
+category: theme
+tags:
+  - token-theme
+modes:
+  - light
+  - dark
+install:
+  target: github:SipengXie2024/dsh-memory-hermes#c82f351d7b1497c3c9434c5f1a15bee67eae3735
+  version: 0.4.2
+  commit: c82f351d7b1497c3c9434c5f1a15bee67eae3735
+compatibility:
+  dsh: 0.1.0-rc.6
+  platform:
+    - web
+screenshots:
+  - https://opengraph.githubassets.com/c82f351d7b1497c3c9434c5f1a15bee67eae3735/SipengXie2024/dsh-memory-hermes
+review:
+  compatibility: verified
+  preview: repository-card
+  installation: verified
+license:
+  code: MIT
+  commercialUse: true
+featuredRank: 144
+starsSnapshot: 0
+releaseUpdatedAt: 2026-08-16T15:06:40.577Z
+metadataUpdatedAt: 2026-08-16T15:06:40.577Z
+starsUpdatedAt: 2026-08-16T15:06:40.577Z
+updatedAt: 2026-08-16T15:06:40.577Z

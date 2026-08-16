@@ -1,0 +1,41 @@
+id: skym31.dsh-freebackground
+name:
+  zh: dsh-FreeBackground
+  en: dsh-FreeBackground
+author: SkyM31
+description: dsh-FreeBackground
+repo: https://github.com/SkyM31/dsh-FreeBackground
+package: dsh-free-background
+rowId: free-background
+category: theme
+tags:
+  - wallpaper
+  - glass
+  - token-theme
+  - light-dark
+modes:
+  - light
+  - dark
+install:
+  target: github:SkyM31/dsh-FreeBackground#b3e946d31f87cf25b65355b2c1034bb272100ade
+  version: 0.1.0
+  commit: b3e946d31f87cf25b65355b2c1034bb272100ade
+compatibility:
+  dsh: unverified
+  platform:
+    - web
+screenshots:
+  - https://opengraph.githubassets.com/b3e946d31f87cf25b65355b2c1034bb272100ade/SkyM31/dsh-FreeBackground
+review:
+  compatibility: unverified
+  preview: repository-card
+  installation: verified
+license:
+  code: MIT
+  commercialUse: true
+featuredRank: 145
+starsSnapshot: 0
+releaseUpdatedAt: 2026-08-16T15:06:43.175Z
+metadataUpdatedAt: 2026-08-16T15:06:43.175Z
+starsUpdatedAt: 2026-08-16T15:06:43.175Z
+updatedAt: 2026-08-16T15:06:43.175Z

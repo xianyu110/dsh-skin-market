@@ -19,6 +19,7 @@ install:
   target: github:youzhoujiMrLiu/dsh-ui-wallpaper#ea0b93014579be080580b45e0ad9a5baee0574b9
   version: 0.3.1
   commit: ea0b93014579be080580b45e0ad9a5baee0574b9
+  allowBuild: dsh-ui-wallpaper@https://codeload.github.com/youzhoujiMrLiu/dsh-ui-wallpaper/tar.gz/ea0b93014579be080580b45e0ad9a5baee0574b9
 compatibility:
   dsh: ^0.1.0-rc.6
   platform:
@@ -35,7 +36,7 @@ license:
   commercialUse: true
 featuredRank: 97
 starsSnapshot: 1
-releaseUpdatedAt: 2026-08-16T13:54:40.449Z
+releaseUpdatedAt: 2026-08-16T15:05:37.515Z
 metadataUpdatedAt: 2026-08-16T13:54:40.449Z
 starsUpdatedAt: 2026-08-16T13:54:40.449Z
-updatedAt: 2026-08-16T13:54:40.449Z
+updatedAt: 2026-08-16T15:05:37.515Z

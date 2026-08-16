@@ -19,6 +19,7 @@ install:
   target: github:drfccv/dsh-theme-neko#6c7c9a58ff93cef7117cbfc3b48a295039cd7c45
   version: 0.1.0
   commit: 6c7c9a58ff93cef7117cbfc3b48a295039cd7c45
+  allowBuild: dsh-theme-neko@https://codeload.github.com/drfccv/dsh-theme-neko/tar.gz/6c7c9a58ff93cef7117cbfc3b48a295039cd7c45
 compatibility:
   dsh: unverified
   platform:
@@ -34,7 +35,7 @@ license:
   commercialUse: true
 featuredRank: 46
 starsSnapshot: 4
-releaseUpdatedAt: 2026-08-16T13:48:19.998Z
+releaseUpdatedAt: 2026-08-16T15:03:18.559Z
 metadataUpdatedAt: 2026-08-16T13:48:19.998Z
 starsUpdatedAt: 2026-08-16T13:48:19.998Z
-updatedAt: 2026-08-16T13:48:19.998Z
+updatedAt: 2026-08-16T15:03:18.559Z

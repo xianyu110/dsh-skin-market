@@ -1,0 +1,40 @@
+id: gameswu.dsh-plugin-background
+name:
+  zh: dsh-plugin-background
+  en: dsh-plugin-background
+author: gameswu
+description: dsh壁纸插件
+repo: https://github.com/gameswu/dsh-plugin-background
+package: dsh-plugin-background
+rowId: ui-background
+category: theme
+tags:
+  - wallpaper
+  - glass
+modes:
+  - light
+  - dark
+install:
+  target: github:gameswu/dsh-plugin-background#f8a45fedf33c6481e931629d81073699190530f6
+  version: 0.2.0
+  commit: f8a45fedf33c6481e931629d81073699190530f6
+  allowBuild: dsh-plugin-background@https://codeload.github.com/gameswu/dsh-plugin-background/tar.gz/f8a45fedf33c6481e931629d81073699190530f6
+compatibility:
+  dsh: unverified
+  platform:
+    - web
+screenshots:
+  - https://opengraph.githubassets.com/f8a45fedf33c6481e931629d81073699190530f6/gameswu/dsh-plugin-background
+review:
+  compatibility: unverified
+  preview: repository-card
+  installation: verified
+license:
+  code: MIT
+  commercialUse: true
+featuredRank: 133
+starsSnapshot: 10
+releaseUpdatedAt: 2026-08-16T15:02:54.025Z
+metadataUpdatedAt: 2026-08-16T15:02:54.025Z
+starsUpdatedAt: 2026-08-16T15:02:54.025Z
+updatedAt: 2026-08-16T15:02:54.025Z

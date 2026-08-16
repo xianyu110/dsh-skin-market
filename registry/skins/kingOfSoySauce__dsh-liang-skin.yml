@@ -16,16 +16,16 @@ tags:
 modes:
   - dark
 install:
-  target: github:kingOfSoySauce/dsh-liang-skin#75692c83c3c8219736a607c1089dffafda310e7a
+  target: github:kingOfSoySauce/dsh-liang-skin#dc377b1d8862c1ac73530b4a3c9560b4761bc5c5
   version: 0.1.4
-  commit: 75692c83c3c8219736a607c1089dffafda310e7a
+  commit: dc377b1d8862c1ac73530b4a3c9560b4761bc5c5
 compatibility:
   dsh: 0.1.0-rc.6
   platform:
     - web
 screenshots:
-  - https://raw.githubusercontent.com/kingOfSoySauce/dsh-liang-skin/75692c83c3c8219736a607c1089dffafda310e7a/docs/preview.png
-  - https://raw.githubusercontent.com/kingOfSoySauce/dsh-liang-skin/75692c83c3c8219736a607c1089dffafda310e7a/docs/demo.gif
+  - https://raw.githubusercontent.com/kingOfSoySauce/dsh-liang-skin/dc377b1d8862c1ac73530b4a3c9560b4761bc5c5/docs/preview.png
+  - https://raw.githubusercontent.com/kingOfSoySauce/dsh-liang-skin/dc377b1d8862c1ac73530b4a3c9560b4761bc5c5/docs/demo.gif
 review:
   compatibility: verified
   preview: verified
@@ -35,8 +35,8 @@ license:
   commercialUse: false
   notice: 仓库当前未声明许可证；安装和再分发前请向作者确认授权。
 featuredRank: 1
-starsSnapshot: 54
-releaseUpdatedAt: 2026-08-16T12:50:44.804Z
-metadataUpdatedAt: 2026-08-16T13:46:32.518Z
-starsUpdatedAt: 2026-08-16T13:46:32.518Z
-updatedAt: 2026-08-16T13:46:32.518Z
+starsSnapshot: 55
+releaseUpdatedAt: 2026-08-16T15:02:39.804Z
+metadataUpdatedAt: 2026-08-16T15:02:39.804Z
+starsUpdatedAt: 2026-08-16T15:02:39.804Z
+updatedAt: 2026-08-16T15:02:39.804Z

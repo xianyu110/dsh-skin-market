@@ -1,0 +1,39 @@
+id: omdsh-plugins.omdsh-sidechat
+name:
+  zh: omdsh-sidechat
+  en: omdsh-sidechat
+author: omdsh-plugins
+description: "Summon a conversation of its own anywhere in the DeepSeek Harness web GUI: a side panel anchored to whatever you were looking at, asking in its own session so the conversation you are running is untouched"
+repo: https://github.com/omdsh-plugins/omdsh-sidechat
+package: "@omdsh-plugins/omdsh-sidechat"
+rowId: omdsh-sidechat
+category: theme
+tags:
+  - appearance
+modes:
+  - light
+  - dark
+install:
+  target: github:omdsh-plugins/omdsh-sidechat#5383623fef51628e56efb8a48bf05d1f5baf7ba0
+  version: 0.1.1
+  commit: 5383623fef51628e56efb8a48bf05d1f5baf7ba0
+  allowBuild: "@omdsh-plugins/omdsh-sidechat@https://codeload.github.com/omdsh-plugins/omdsh-sidechat/tar.gz/5383623fef51628e56efb8a48bf05d1f5baf7ba0"
+compatibility:
+  dsh: ">=0.1.0-rc.6"
+  platform:
+    - web
+screenshots:
+  - https://opengraph.githubassets.com/5383623fef51628e56efb8a48bf05d1f5baf7ba0/omdsh-plugins/omdsh-sidechat
+review:
+  compatibility: verified
+  preview: repository-card
+  installation: verified
+license:
+  code: MIT
+  commercialUse: true
+featuredRank: 143
+starsSnapshot: 0
+releaseUpdatedAt: 2026-08-16T15:06:27.301Z
+metadataUpdatedAt: 2026-08-16T15:06:27.301Z
+starsUpdatedAt: 2026-08-16T15:06:27.301Z
+updatedAt: 2026-08-16T15:06:27.301Z

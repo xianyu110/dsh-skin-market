@@ -21,6 +21,7 @@ install:
   target: github:NoNameLeGo/dsh-catppuccin#8bb3d0df49e0e85589880e59238743aa4d21dc2a
   version: 0.2.1
   commit: 8bb3d0df49e0e85589880e59238743aa4d21dc2a
+  allowBuild: "@nonamelego/dsh-catppuccin@https://codeload.github.com/NoNameLeGo/dsh-catppuccin/tar.gz/8bb3d0df49e0e85589880e59238743aa4d21dc2a"
 compatibility:
   dsh: ^0.1.0-rc.6
   platform:
@@ -41,7 +42,7 @@ license:
   commercialUse: true
 featuredRank: 5
 starsSnapshot: 7
-releaseUpdatedAt: 2026-08-16T14:16:53.255Z
+releaseUpdatedAt: 2026-08-16T15:03:00.526Z
 metadataUpdatedAt: 2026-08-16T14:16:53.255Z
 starsUpdatedAt: 2026-08-16T12:31:33.507Z
-updatedAt: 2026-08-16T14:16:53.255Z
+updatedAt: 2026-08-16T15:03:00.526Z
